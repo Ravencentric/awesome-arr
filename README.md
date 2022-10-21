@@ -20,6 +20,7 @@ These are collection managers for Usenet and BitTorrent users. They can monitor 
 - [Readarr](https://readarr.com/) - Readarr is an ebook collection manager.
 - [Sonarr](https://sonarr.tv/) - Sonarr is a PVR.
 - [Whisparr](https://whisparr.com/) - Whisparr is an adult movie collection manager.
+- [test](test) - test.
 
 ### Indexer Manager
 - [Prowlarr](https://github.com/prowlarr/prowlarr) - Prowlarr is an indexer manager/proxy built on the popular arr .net/reactjs base stack to integrate with your various PVR apps. Prowlarr supports management of both Torrent Trackers and Usenet Indexers. It integrates seamlessly with Lidarr, Mylar3, Radarr, Readarr, and Sonarr offering complete management of your indexers with no per app Indexer setup required.
