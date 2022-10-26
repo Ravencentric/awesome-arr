@@ -60,7 +60,7 @@ These are not *Arrs but are almost always used along with *Arrs.
 - [Excludarr](https://github.com/haijeploeg/excludarr) - Excludarr is a CLI that interacts with Radarr and Sonarr instances. It completely manages you library in Sonarr and Radarr to only consist out of movies and series that are not present on any of the configured streaming providers.
 - [Exportarr](https://github.com/onedr0p/exportarr) - This will export metrics gathered from Sonarr, Radarr, Lidarr, or Prowlarr.
 - [Ezarr](https://github.com/Luctia/ezarr) - Ezarr aims to make it as easy as possible to setup an entire Servarr/Jackett/BitTorrent/PleX/Jellyfin mediacenter stack using Docker.
-- [Just A Bunch Of Starr Scripts](https://github.com/angrycuban13/Just-A-Bunch-Of-Starr-Scripts) - PowerShell scripts for Starr apps
+- [Just A Bunch Of Starr Scripts](https://github.com/angrycuban13/Just-A-Bunch-Of-Starr-Scripts) - PowerShell scripts for Starr apps.
    - [Owinenatorr](https://github.com/angrycuban13/Just-A-Bunch-Of-Starr-Scripts/blob/main/Owinenatorr) - This script will slowly and programatically rename your Sonarr library after a name scheme change.
     - [Upgradinatorr](https://github.com/angrycuban13/Just-A-Bunch-Of-Starr-Scripts/tree/main/Upgradinatorr) - Script to manually search n items that are not tagged with a specific tag in your Radarr/Sonarr media library.
     - [ZakTag](https://github.com/angrycuban13/Just-A-Bunch-Of-Starr-Scripts/tree/main/ZakTag) - This script will run through every release group in your Radarr library and tag each corresponding movie with their respective release group.
