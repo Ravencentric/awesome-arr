@@ -60,6 +60,10 @@ These are not *Arrs but are almost always used along with *Arrs.
 - [Excludarr](https://github.com/haijeploeg/excludarr) - Excludarr is a CLI that interacts with Radarr and Sonarr instances. It completely manages you library in Sonarr and Radarr to only consist out of movies and series that are not present on any of the configured streaming providers.
 - [Exportarr](https://github.com/onedr0p/exportarr) - This will export metrics gathered from Sonarr, Radarr, Lidarr, or Prowlarr.
 - [Ezarr](https://github.com/Luctia/ezarr) - Ezarr aims to make it as easy as possible to setup an entire Servarr/Jackett/BitTorrent/PleX/Jellyfin mediacenter stack using Docker.
+- [Just A Bunch Of Starr Scripts](https://github.com/angrycuban13/Just-A-Bunch-Of-Starr-Scripts) - PowerShell scripts for Starr apps
+   - [Owinenatorr](https://github.com/angrycuban13/Just-A-Bunch-Of-Starr-Scripts/blob/main/Owinenatorr) - This script will slowly and programatically rename your Sonarr library after a name scheme change.
+    - [Upgradinatorr](https://github.com/angrycuban13/Just-A-Bunch-Of-Starr-Scripts/tree/main/Upgradinatorr) - Script to manually search n items that are not tagged with a specific tag in your Radarr/Sonarr media library.
+    - [ZakTag](https://github.com/angrycuban13/Just-A-Bunch-Of-Starr-Scripts/tree/main/ZakTag) - This script will run through every release group in your Radarr library and tag each corresponding movie with their respective release group.
 - [Listrr](https://github.com/TheUltimateC0der/Listrr) - Listrr creates lists for shows and movies based on your filters. The created lists get updated every 24 hours based on your filters, so Listrr will add all new items that match your filters, and will also remove all items that do not match your filter configuration anymore. Supports Sonarr, Radarr, Traktarr and Python-PlexLibrary.
 - [Mediarr](https://github.com/l3uddz/mediarr) - CLI tool to add new media to pvr's from the arr suite.
 - [Membarr](https://github.com/Yoruio/Membarr) - Discord Bot to invite a user to a Plex or Jellyfin server.
