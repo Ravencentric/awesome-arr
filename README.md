@@ -68,6 +68,7 @@ These are not *Arrs but are almost always used along with *Arrs.
 - [Mediarr](https://github.com/l3uddz/mediarr) - CLI tool to add new media to pvr's from the arr suite.
 - [Membarr](https://github.com/Yoruio/Membarr) - Discord Bot to invite a user to a Plex or Jellyfin server.
 - [Rollarr](https://github.com/TheHumanRobot/Rollarr) - Plex Automatic Pre-roll script with a GUI.
+- [Sonarr Episode Name Checker](https://github.com/tronyx/sonarr-episode-name-checker) - Bash and Powershell scripts to check for episodes named "Episode ##" or "TBA".
 - [Tdarr](https://github.com/HaveAGitGat/Tdarr) - Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking.
 - [Traktarr](https://github.com/l3uddz/traktarr) - Script to add new series & movies to Sonarr/Radarr based on Trakt lists.
 - [Transcoderr](https://github.com/drkno/transcoderr) - A transcoding pipeline designed to normalise file types into a common filetype. Dynamically configurable using plugins allowing highly customisable pipelines to be built.
