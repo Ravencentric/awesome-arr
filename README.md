@@ -42,9 +42,10 @@ These are not directly part of the official *Arr family but they work similarly 
 - [Addarr](https://github.com/Waterboy1602/Addarr) - Telegram Bot for adding series/movies to Sonarr/Radarr or for changing the download speed of Transmission/Sabnzbd.
 - [Botdarr](https://github.com/shayaantx/botdarr) - Slack/Discord/Telegram/Matrix bot for accessing radarr, sonarr, and lidarr.
 - [Doplarr](https://github.com/kiranshila/Doplarr) - An *Arr request bot for Discord.
-- [Searcharr](https://github.com/toddrob99/searcharr) - Sonarr & Radarr Telegram Bot.
 - [Invitarr](https://github.com/Sleepingpirates/Invitarr) - Invitarr is a chatbot that invites discord users to plex.
-  
+- [Membarr](https://github.com/Yoruio/Membarr) - Discord Bot to invite a user to a Plex or Jellyfin server.
+- [Searcharr](https://github.com/toddrob99/searcharr) - Sonarr & Radarr Telegram Bot.
+
 ## Media Servers
 These are not *Arrs but are almost always used along with *Arrs.
 - [Emby](https://emby.media/) - Emby Server is a personal media server with apps on just about every device.
@@ -66,7 +67,6 @@ These are not *Arrs but are almost always used along with *Arrs.
     - [ZakTag](https://github.com/angrycuban13/Just-A-Bunch-Of-Starr-Scripts/tree/main/ZakTag) - This script will run through every release group in your Radarr library and tag each corresponding movie with their respective release group.
 - [Listrr](https://github.com/TheUltimateC0der/Listrr) - Listrr creates lists for shows and movies based on your filters. The created lists get updated every 24 hours based on your filters, so Listrr will add all new items that match your filters, and will also remove all items that do not match your filter configuration anymore. Supports Sonarr, Radarr, Traktarr and Python-PlexLibrary.
 - [Mediarr](https://github.com/l3uddz/mediarr) - CLI tool to add new media to pvr's from the arr suite.
-- [Membarr](https://github.com/Yoruio/Membarr) - Discord Bot to invite a user to a Plex or Jellyfin server.
 - [Rollarr](https://github.com/TheHumanRobot/Rollarr) - Plex Automatic Pre-roll script with a GUI.
 - [Sonarr Episode Name Checker](https://github.com/tronyx/sonarr-episode-name-checker) - Bash and Powershell scripts to check for episodes named "Episode ##" or "TBA".
 - [Tdarr](https://github.com/HaveAGitGat/Tdarr) - Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking.
