@@ -50,7 +50,6 @@ These are not directly part of the official *Arr family but they work similarly 
 - [Monitorr](https://github.com/Monitorr/Monitorr) - Monitorr is a self-hosted PHP web app that monitors the status of local and remote network services, websites, and applications.
 - [Notifiarr](https://notifiarr.com/) - Discord notification system.
 - [Ombi](https://github.com/Ombi-app/Ombi) - Ombi is a self-hosted web application that automatically gives your shared Plex or Emby users the ability to request content by themselves! Ombi can be linked to multiple TV Show and Movie DVR tools to create a seamless end-to-end experience for your users.
-- [Organizr](https://github.com/causefx/Organizr) - HTPC/Homelab Services Organizer - Written in PHP.
 - [Overseerr](https://overseerr.dev/) - Request management and media discovery tool for the Plex ecosystem.
 - [Plex Meta Manager](https://github.com/meisnate12/Plex-Meta-Manager) - Plex Meta Manager is an open source Python 3 project that has been designed to ease the creation and maintenance of metadata, collections, and playlists within a Plex Media Server.
 - [Rclone](https://rclone.org/) - Rclone is a command-line program to manage files on cloud storage.
@@ -97,7 +96,7 @@ These are not *Arrs but are almost always used along with *Arrs.
 ## Dashboards
 These are dashboards for your *Arrs and various other services on your server.
 - [Dashy](https://github.com/Lissy93/dashy) - A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more.
-- [Flame](https://github.com/pawelmalak/flame) - a startpage for your server and / or new tab page.
+- [Flame](https://github.com/pawelmalak/flame) - A startpage for your server and / or new tab page.
 - [Heimdall](https://github.com/linuxserver/Heimdall) - An Application dashboard and launcher.
 - [Homepage](https://github.com/benphelps/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integration.
 - [Homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
