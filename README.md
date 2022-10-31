@@ -3,13 +3,14 @@
 
 ## Contents
 - [Official *Arrs](#official-arrs)
-   - [Indexer Manager](#indexer-manager)
-   - [Related Resources](#related-resources)
+    - [Indexer Manager](#indexer-manager)
+    - [Related Resources](#related-resources)
 - [*Arr like Services](#arr-like-services)
+- [Complimenting Apps](#complimenting-apps)
+- [*Arr Scripts](#arr-scripts)
 - [Bots](#bots)
 - [Media Servers](#media-servers)
-- [*Arr Scripts](#arr-scripts)
-- [Complimenting Apps](#complimenting-apps)
+- [Dashboards](#dashboards)
 - [Mobile Apps](#mobile-apps)
 - [Unmaintained](#unmaintained)
 
@@ -38,6 +39,44 @@ These are not directly part of the official *Arr family but they work similarly 
 - [Medusa](https://pymedusa.com/) - Medusa is an automatic Video Library Manager for TV Shows. It watches for new episodes of your favorite shows, and when they are posted it does its magic: automatic torrent/nzb searching, downloading, and processing at the qualities you want.
 - [Mylar3](https://github.com/mylar3/mylar3) - The python3 version of the automated Comic Book downloader (cbr/cbz) for use with various download clients.
 
+## Complimenting Apps
+- [Autobrr](https://autobrr.com/) - The modern autodl-irssi replacement.
+    - [Omegabrr](https://github.com/autobrr/omegabrr) - Transform monitored shows and movies from the arrs into autobrr filters.
+- [Autoscan](https://github.com/Cloudbox/autoscan) - Autoscan replaces the default Plex and Emby behaviour for picking up changes on the file system.
+- [FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection.
+- [Flemmarr](https://github.com/Flemmarr/Flemmarr) - Flemmarr makes it easy to automate configuration for your -arr apps.
+- [Gclone](https://github.com/l3v11/gclone) - A rclone mod with auto SA rotation.
+- [Jellyseerr](https://github.com/Fallenbagel/jellyseerr) - Fork of overseerr for jellyfin support.
+- [Monitorr](https://github.com/Monitorr/Monitorr) - Monitorr is a self-hosted PHP web app that monitors the status of local and remote network services, websites, and applications.
+- [Notifiarr](https://notifiarr.com/) - Discord notification system.
+- [Ombi](https://github.com/Ombi-app/Ombi) - Ombi is a self-hosted web application that automatically gives your shared Plex or Emby users the ability to request content by themselves! Ombi can be linked to multiple TV Show and Movie DVR tools to create a seamless end-to-end experience for your users.
+- [Organizr](https://github.com/causefx/Organizr) - HTPC/Homelab Services Organizer - Written in PHP.
+- [Overseerr](https://overseerr.dev/) - Request management and media discovery tool for the Plex ecosystem.
+- [Plex Meta Manager](https://github.com/meisnate12/Plex-Meta-Manager) - Plex Meta Manager is an open source Python 3 project that has been designed to ease the creation and maintenance of metadata, collections, and playlists within a Plex Media Server.
+- [Rclone](https://rclone.org/) - Rclone is a command-line program to manage files on cloud storage.
+- [Unpackerr](https://github.com/davidnewhall/unpackerr) - Extracts downloads for Radarr, Sonarr, Lidarr, Readarr - Deletes extracted files after import.
+- [Wizarr](https://github.com/Wizarrrr/wizarr) - Wizarr is an automatic user invitation system for Plex.
+
+## *Arr Scripts
+- [Collectarr](https://github.com/RiffSphere/Collectarr) - A Python script for checking your Radarr database and setting up collection lists. Also supports "smart" actor lists based on TMDB.
+- [Elsewherr](https://github.com/Adman1020/Elsewherr) - See disclaimer on page. See if your movies from Radarr are available on a streaming service, and add a tag against the movie if it is.
+- [Excludarr](https://github.com/haijeploeg/excludarr) - Excludarr is a CLI that interacts with Radarr and Sonarr instances. It completely manages you library in Sonarr and Radarr to only consist out of movies and series that are not present on any of the configured streaming providers.
+- [Exportarr](https://github.com/onedr0p/exportarr) - This will export metrics gathered from Sonarr, Radarr, Lidarr, or Prowlarr.
+- [Ezarr](https://github.com/Luctia/ezarr) - Ezarr aims to make it as easy as possible to setup an entire Servarr/Jackett/BitTorrent/PleX/Jellyfin mediacenter stack using Docker.
+- [Just A Bunch Of Starr Scripts](https://github.com/angrycuban13/Just-A-Bunch-Of-Starr-Scripts) - PowerShell scripts for Starr apps.
+   - [Owinenatorr](https://github.com/angrycuban13/Just-A-Bunch-Of-Starr-Scripts/blob/main/Owinenatorr) - This script will slowly and programatically rename your Sonarr library after a name scheme change.
+    - [Upgradinatorr](https://github.com/angrycuban13/Just-A-Bunch-Of-Starr-Scripts/tree/main/Upgradinatorr) - Script to manually search n items that are not tagged with a specific tag in your Radarr/Sonarr media library.
+    - [ZakTag](https://github.com/angrycuban13/Just-A-Bunch-Of-Starr-Scripts/tree/main/ZakTag) - This script will run through every release group in your Radarr library and tag each corresponding movie with their respective release group.
+- [Listrr](https://github.com/TheUltimateC0der/Listrr) - Listrr creates lists for shows and movies based on your filters. The created lists get updated every 24 hours based on your filters, so Listrr will add all new items that match your filters, and will also remove all items that do not match your filter configuration anymore. Supports Sonarr, Radarr, Traktarr and Python-PlexLibrary.
+- [Mediarr](https://github.com/l3uddz/mediarr) - CLI tool to add new media to pvr's from the arr suite.
+- [Rollarr](https://github.com/TheHumanRobot/Rollarr) - Plex Automatic Pre-roll script with a GUI.
+- [Sonarr Episode Name Checker](https://github.com/tronyx/sonarr-episode-name-checker) - Bash and Powershell scripts to check for episodes named "Episode ##" or "TBA".
+- [StarrScripts](https://github.com/bakerboy448/StarrScripts) - Misc Scripts for Starr related Apps.
+    - [xseed.sh](https://github.com/bakerboy448/StarrScripts/blob/main/xseed.sh) - Use with Starr On Import / On Upgrade custom script trigger to cross-seed search after import.
+- [Tdarr](https://github.com/HaveAGitGat/Tdarr) - Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking.
+- [Traktarr](https://github.com/l3uddz/traktarr) - Script to add new series & movies to Sonarr/Radarr based on Trakt lists.
+- [Transcoderr](https://github.com/drkno/transcoderr) - A transcoding pipeline designed to normalise file types into a common filetype. Dynamically configurable using plugins allowing highly customisable pipelines to be built.
+
 ## Bots
 - [Addarr](https://github.com/Waterboy1602/Addarr) - Telegram Bot for adding series/movies to Sonarr/Radarr or for changing the download speed of Transmission/Sabnzbd.
 - [Botdarr](https://github.com/shayaantx/botdarr) - Slack/Discord/Telegram/Matrix bot for accessing radarr, sonarr, and lidarr.
@@ -55,42 +94,15 @@ These are not *Arrs but are almost always used along with *Arrs.
 - [Midarr](https://github.com/midarrlabs/midarr-server) - Midarr, the minimal lightweight media server.
 - [Plex](https://www.plex.tv/) - Plex is a streaming media service and a client–server media player platform, made by Plex, Inc. The Plex Media Server organizes video, audio, and photos from a user's collections and from online services, and streams it to the players.
 
-## *Arr Scripts
-- [Collectarr](https://github.com/RiffSphere/Collectarr) - A Python script for checking your Radarr database and setting up collection lists. Also supports "smart" actor lists based on TMDB.
-- [Elsewherr](https://github.com/Adman1020/Elsewherr) - See disclaimer on page. See if your movies from Radarr are available on a streaming service, and add a tag against the movie if it is.
-- [Excludarr](https://github.com/haijeploeg/excludarr) - Excludarr is a CLI that interacts with Radarr and Sonarr instances. It completely manages you library in Sonarr and Radarr to only consist out of movies and series that are not present on any of the configured streaming providers.
-- [Exportarr](https://github.com/onedr0p/exportarr) - This will export metrics gathered from Sonarr, Radarr, Lidarr, or Prowlarr.
-- [Ezarr](https://github.com/Luctia/ezarr) - Ezarr aims to make it as easy as possible to setup an entire Servarr/Jackett/BitTorrent/PleX/Jellyfin mediacenter stack using Docker.
-- [Just A Bunch Of Starr Scripts](https://github.com/angrycuban13/Just-A-Bunch-Of-Starr-Scripts) - PowerShell scripts for Starr apps.
-   - [Owinenatorr](https://github.com/angrycuban13/Just-A-Bunch-Of-Starr-Scripts/blob/main/Owinenatorr) - This script will slowly and programatically rename your Sonarr library after a name scheme change.
-    - [Upgradinatorr](https://github.com/angrycuban13/Just-A-Bunch-Of-Starr-Scripts/tree/main/Upgradinatorr) - Script to manually search n items that are not tagged with a specific tag in your Radarr/Sonarr media library.
-    - [ZakTag](https://github.com/angrycuban13/Just-A-Bunch-Of-Starr-Scripts/tree/main/ZakTag) - This script will run through every release group in your Radarr library and tag each corresponding movie with their respective release group.
-- [Listrr](https://github.com/TheUltimateC0der/Listrr) - Listrr creates lists for shows and movies based on your filters. The created lists get updated every 24 hours based on your filters, so Listrr will add all new items that match your filters, and will also remove all items that do not match your filter configuration anymore. Supports Sonarr, Radarr, Traktarr and Python-PlexLibrary.
-- [Mediarr](https://github.com/l3uddz/mediarr) - CLI tool to add new media to pvr's from the arr suite.
-- [Rollarr](https://github.com/TheHumanRobot/Rollarr) - Plex Automatic Pre-roll script with a GUI.
-- [Sonarr Episode Name Checker](https://github.com/tronyx/sonarr-episode-name-checker) - Bash and Powershell scripts to check for episodes named "Episode ##" or "TBA".
-- [Tdarr](https://github.com/HaveAGitGat/Tdarr) - Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking.
-- [Traktarr](https://github.com/l3uddz/traktarr) - Script to add new series & movies to Sonarr/Radarr based on Trakt lists.
-- [Transcoderr](https://github.com/drkno/transcoderr) - A transcoding pipeline designed to normalise file types into a common filetype. Dynamically configurable using plugins allowing highly customisable pipelines to be built.
-  
-## Complimenting Apps
-- [Autobrr](https://autobrr.com/) - The modern autodl-irssi replacement.
-    - [Omegabrr](https://github.com/autobrr/omegabrr) - Transform monitored shows and movies from the arrs into autobrr filters.
-- [Autoscan](https://github.com/Cloudbox/autoscan) - Autoscan replaces the default Plex and Emby behaviour for picking up changes on the file system.
-- [FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection.
-- [Flemmarr](https://github.com/Flemmarr/Flemmarr) - Flemmarr makes it easy to automate configuration for your -arr apps.
-- [Gclone](https://github.com/l3v11/gclone) - A rclone mod with auto SA rotation.
-- [Homepage](https://github.com/benphelps/homepage) - A modern (*fully static, fast*), secure (*fully proxied*), highly customizable application dashboard with integrations for more than 25 services and translations for over 15 languages. Easily configured via YAML files (or discovery via docker labels).
-- [Jellyseerr](https://github.com/Fallenbagel/jellyseerr) - Fork of overseerr for jellyfin support.
-- [Monitorr](https://github.com/Monitorr/Monitorr) - Monitorr is a self-hosted PHP web app that monitors the status of local and remote network services, websites, and applications.
-- [Notifiarr](https://notifiarr.com/) - Discord notification system.
-- [Ombi](https://github.com/Ombi-app/Ombi) - Ombi is a self-hosted web application that automatically gives your shared Plex or Emby users the ability to request content by themselves! Ombi can be linked to multiple TV Show and Movie DVR tools to create a seamless end-to-end experience for your users.
+## Dashboards
+These are dashboards for your *Arrs and various other services on your server.
+- [Dashy](https://github.com/Lissy93/dashy) - A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more.
+- [Flame](https://github.com/pawelmalak/flame) - a startpage for your server and / or new tab page.
+- [Heimdall](https://github.com/linuxserver/Heimdall) - An Application dashboard and launcher.
+- [Homepage](https://github.com/benphelps/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integration.
+- [Homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
 - [Organizr](https://github.com/causefx/Organizr) - HTPC/Homelab Services Organizer - Written in PHP.
-- [Overseerr](https://overseerr.dev/) - Request management and media discovery tool for the Plex ecosystem.
-- [Plex Meta Manager](https://github.com/meisnate12/Plex-Meta-Manager) - Plex Meta Manager is an open source Python 3 project that has been designed to ease the creation and maintenance of metadata, collections, and playlists within a Plex Media Server.
-- [Rclone](https://rclone.org/) - Rclone is a command-line program to manage files on cloud storage.
-- [Unpackerr](https://github.com/davidnewhall/unpackerr) - Extracts downloads for Radarr, Sonarr, Lidarr, Readarr - Deletes extracted files after import.
-- [Wizarr](https://github.com/Wizarrrr/wizarr) - Wizarr is an automatic user invitation system for Plex.
+- [SUI](https://github.com/jeroenpardon/sui) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
 
 ## Mobile Apps
 - [LunaSea](https://github.com/JagandeepBrar/LunaSea) - LunaSea is a fully featured, open source self-hosted controller focused on giving you a seamless experience between all of your self-hosted media software remotely on your devices. LunaSea currently supports Lidarr, Radarr, Sonarr, NZBGet, SABnzbd, Newznab, Indexer Searching, NZBHydra2, Tautulli, and Wake on LAN.
