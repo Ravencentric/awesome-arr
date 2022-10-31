@@ -96,12 +96,12 @@ These are not *Arrs but are almost always used along with *Arrs.
 ## Dashboards
 These are dashboards for your *Arrs and various other services on your server.
 - [Dashy](https://github.com/Lissy93/dashy) - A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more.
-- [Flame](https://github.com/pawelmalak/flame) - A startpage for your server and / or new tab page.
+- [Flame](https://github.com/pawelmalak/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
 - [Heimdall](https://github.com/linuxserver/Heimdall) - An Application dashboard and launcher.
 - [Homepage](https://github.com/benphelps/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integration.
 - [Homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
 - [Organizr](https://github.com/causefx/Organizr) - HTPC/Homelab Services Organizer - Written in PHP.
-- [SUI](https://github.com/jeroenpardon/sui) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
+- [SUI](https://github.com/jeroenpardon/sui) - A startpage for your server and / or new tab page.
 
 ## Mobile Apps
 - [LunaSea](https://github.com/JagandeepBrar/LunaSea) - LunaSea is a fully featured, open source self-hosted controller focused on giving you a seamless experience between all of your self-hosted media software remotely on your devices. LunaSea currently supports Lidarr, Radarr, Sonarr, NZBGet, SABnzbd, Newznab, Indexer Searching, NZBHydra2, Tautulli, and Wake on LAN.
