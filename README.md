@@ -13,6 +13,7 @@
 - [Dashboards](#dashboards)
 - [Mobile Apps](#mobile-apps)
 - [Unmaintained](#unmaintained)
+- [Contribute](#contribute)
 
 ## Official *Arrs
 These are collection managers for Usenet and BitTorrent users. They can monitor multiple RSS feeds for new content and will grab, sort and rename them. They can also be configured to automatically upgrade the quality of files already downloaded when a better quality format becomes available.
@@ -120,3 +121,6 @@ These are dashboards for your *Arrs and various other services on your server.
 - [Timearr](https://github.com/l3uddz/timearr) - Custom Import Script for Sonarr/Radarr/Lidarr to reset the mod-time of imported files (**Last Commit: May 9, 2020**).
 - [Trackarr](https://gitlab.com/cloudb0x/trackarr) - Trackarr monitors tracker announce IRC channel, parses the announcements, and forwards those announcements to *Arr PVRs (**Last Commit: Jun 10 2021**).
 - [Wantarr](https://github.com/l3uddz/wantarr) - CLI Tool to find wanted media for the *arr suite (**Last Commit: Jul 31, 2020**).
+
+## Contribute
+Contributions welcome! Read the [contribution guidelines](https://github.com/Ravencentric/awesome-arr/blob/main/contributing.md) first.
