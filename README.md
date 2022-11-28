@@ -13,7 +13,6 @@
 - [Dashboards](#dashboards)
 - [Mobile Apps](#mobile-apps)
 - [Unmaintained](#unmaintained)
-- [Contribute](#contribute)
 
 ## Official *Arrs
 These are collection managers for Usenet and BitTorrent users. They can monitor multiple RSS feeds for new content and will grab, sort and rename them. They can also be configured to automatically upgrade the quality of files already downloaded when a better quality format becomes available.
