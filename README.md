@@ -5,7 +5,7 @@
 - [Official *Arrs](#official-arrs)
     - [Indexer Manager](#indexer-manager)
     - [Related Resources](#related-resources)
-- [*Arr like Services](#arr-like-services)
+- [*Arr like Apps](#arr-like-apps)
 - [Complimenting Apps](#complimenting-apps)
 - [*Arr Scripts](#arr-scripts)
 - [Bots](#bots)
@@ -31,17 +31,17 @@ These are collection managers for Usenet and BitTorrent users. They can monitor 
 - [TRaSH-Guides](https://trash-guides.info/) - Guides mainly for Sonarr/Radarr/Bazarr and everything related to it.
 - [Recyclarr](https://github.com/recyclarr/recyclarr) - Automatically sync TRaSH guides to your Sonarr and Radarr instances.
 
-## *Arr like Services
+## *Arr like Apps
 These are not directly part of the official *Arr family but they work similarly to an *Arr and serve as an alternative to them.
-- [Bazarr](https://github.com/morpheus65535/bazarr) - Bazarr is a companion application to Sonarr and Radarr. It manages and downloads subtitles based on your requirements. You define your preferences by TV show or movie and Bazarr takes care of everything for you.
-- [Bobarr](https://github.com/iam4x/bobarr) - The all-in-one alternative for Sonarr, Radarr, Jackett... with a VPN and running in docker.
 - [Flexget](https://github.com/Flexget/Flexget) - FlexGet is a multipurpose automation tool for all of your media. Support for torrents, nzbs, podcasts, comics, TV, movies, RSS, HTML, CSV, and more.
 - [Medusa](https://pymedusa.com/) - Medusa is an automatic Video Library Manager for TV Shows. It watches for new episodes of your favorite shows, and when they are posted it does its magic: automatic torrent/nzb searching, downloading, and processing at the qualities you want.
 - [Mylar3](https://github.com/mylar3/mylar3) - The python3 version of the automated Comic Book downloader (cbr/cbz) for use with various download clients.
+- [SickGear](https://github.com/SickGear/SickGear) - SickGear has proven the most reliable stable TV fork of the great Sick-Beard to fully automate TV enjoyment with innovation.
 
 ## Complimenting Apps
 - [Autobrr](https://autobrr.com/) - The modern autodl-irssi replacement.
 - [Autoscan](https://github.com/Cloudbox/autoscan) - Autoscan replaces the default Plex and Emby behaviour for picking up changes on the file system.
+- [Bazarr](https://github.com/morpheus65535/bazarr) - Bazarr is a companion application to Sonarr and Radarr. It manages and downloads subtitles based on your requirements. You define your preferences by TV show or movie and Bazarr takes care of everything for you.
 - [FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection.
 - [Flemmarr](https://github.com/Flemmarr/Flemmarr) - Flemmarr makes it easy to automate configuration for your -arr apps.
 - [Gclone](https://github.com/l3v11/gclone) - A rclone mod with auto SA rotation.
@@ -104,6 +104,7 @@ These are dashboards for your *Arrs and various other services on your server.
 - [nzb360](https://nzb360.com/) - Proprietary and paid alternative to LunaSea. Supports SABnzbd, NZBget, Deluge, Transmission, µTorrent, qBittorrent, rTorrent/ruTorrent, Sonarr, Sick Beard, Radarr, Lidarr, Bazarr, Couchpotato, Headphones, NEWZnab, Jackett, NZBHydra2 and Prowlarr.
 
 ## Unmaintained
+- [Bobarr](https://github.com/iam4x/bobarr) - The all-in-one alternative for Sonarr, Radarr, Jackett, Transmission, and FlareSolverr with a VPN and running in docker. This is no longer in active development, [author is only accepting PRs](https://github.com/iam4x/bobarr/issues/224#issuecomment-1007031439) for this.  (**Last Commit: Apr 6, 2022**).
 - [Bonarr](https://github.com/bonarr/Bonarr) - Bonarr is an independent fork of Radarr reworked for automatically downloading adult movies via Usenet and BitTorrent (**Last Commit: Sep 12, 2017**).
 - [Cardigann](https://github.com/cardigann/cardigann) - A proxy server for adding new indexers to Sonarr, SickRage and other media managers (**Last Commit: Apr 26, 2020**).
 - [Comandarr](https://github.com/Commandarr/Commandarr) - Comandarr is a bot that will interact with Sonarr, Radarr and Lidarr (**Last Commit: Apr 10, 2017**).
@@ -114,6 +115,7 @@ These are dashboards for your *Arrs and various other services on your server.
 - [Posterr](https://github.com/petersem/posterr) - A digital poster app for Plex, Sonarr, Radarr, and Readarr (**Last Commit: Nov 5, 2021**).
 - [Pulsarr](https://github.com/roboticsound/Pulsarr) - Browser extension (currently Chrome & Firefox) for adding movies to Radarr or Series' to Sonarr while browsing IMDB or TVDB (**Last Commit: May 2, 2018**).
 - [Requestrr](https://github.com/darkalfx/requestrr) - Requestrr is a chatbot used to simplify using services like Sonarr/Radarr/Ombi via the use of chat. Current platform is Discord only, but the bot was built around the ideology of quick adaptation for new features as well as new platforms (**Archived, Last Commit: Apr 11, 2022**).
+- [Sick-Beard](https://github.com/midgetspy/Sick-Beard) - PVR & episode guide that downloads and manages all your TV shows (**Last Commit: Mar 21, 2016**).
 - [Syncarr](https://github.com/syncarr/syncarr) - One/two way sync of Radarr, Sonarr, or Lidarr instances (**Last Commit: Jun 8, 2021**).
 - [Timearr](https://github.com/l3uddz/timearr) - Custom Import Script for Sonarr/Radarr/Lidarr to reset the mod-time of imported files (**Last Commit: May 9, 2020**).
 - [Trackarr](https://gitlab.com/cloudb0x/trackarr) - Trackarr monitors tracker announce IRC channel, parses the announcements, and forwards those announcements to *Arr PVRs (**Last Commit: Jun 10 2021**).
