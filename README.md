@@ -5,7 +5,7 @@
 - [Official *Arrs](#official-arrs)
     - [Indexer Manager](#indexer-manager)
     - [Related Resources](#related-resources)
-- [*Arr like Services](#arr-like-services)
+- [*Arr like Apps](#arr-like-apps)
 - [Complimenting Apps](#complimenting-apps)
 - [*Arr Scripts](#arr-scripts)
 - [Bots](#bots)
