@@ -130,5 +130,5 @@ These are dashboards for your *Arrs and various other services on your server.
 - [Trackarr](https://gitlab.com/cloudb0x/trackarr) - Trackarr monitors tracker announce IRC channel, parses the announcements, and forwards those announcements to *Arr PVRs (**Last Commit: Jun 10 2021**).
 - [Wantarr](https://github.com/l3uddz/wantarr) - CLI Tool to find wanted media for the *arr suite (**Last Commit: Jul 31, 2020**).
 
-## Contribute
+### Contribute
 Contributions welcome! Read the [contribution guidelines](https://github.com/Ravencentric/awesome-arr/blob/main/contributing.md) first.
