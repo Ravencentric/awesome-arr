@@ -5,6 +5,7 @@
 - [Official *Arrs](#official-arrs)
     - [Indexer Manager](#indexer-manager)
     - [Related Resources](#related-resources)
+- [*Arrs with Additional Functionality](#arrs-with-additional-functionality)
 - [*Arr like Apps](#arr-like-apps)
 - [Complimenting Apps](#complimenting-apps)
 - [*Arr Scripts](#arr-scripts)
@@ -30,6 +31,12 @@ These are collection managers for Usenet and BitTorrent users. They can monitor 
 - [Servarr](https://wiki.servarr.com/) -  The consolidated wiki for Lidarr, Prowlarr, Radarr, Readarr, and Sonarr.
 - [TRaSH-Guides](https://trash-guides.info/) - Guides mainly for Sonarr/Radarr/Bazarr and everything related to it.
 - [Recyclarr](https://github.com/recyclarr/recyclarr) - Automatically sync TRaSH guides to your Sonarr and Radarr instances.
+
+## *Arrs with Additional Functionality
+- [Docker Lidarr Extended](https://github.com/RandomNinjaAtk/docker-lidarr-extended) - Lidarr application packaged with multiple scripts to provide additional functionality.
+- [Docker Radarr Extended](https://github.com/RandomNinjaAtk/docker-radarr-extended) - Radarr (develop) with bash scripts to automate and extend functionality.
+- [Docker Sonarr Extended](https://github.com/RandomNinjaAtk/docker-sonarr-extended) - Sonarr (develop) with bash scripts to automate and extend functionality.
+- [Lidarr on Steroids](https://github.com/youegraillot/lidarr-on-steroids) - This repository bundles a modded version of Lidarr and Deemix into a docker image.
 
 ## *Arr like Apps
 These are not directly part of the official *Arr family but they work similarly to an *Arr and serve as an alternative to them.
@@ -57,6 +64,7 @@ These are not directly part of the official *Arr family but they work similarly 
 - [Wizarr](https://github.com/Wizarrrr/wizarr) - Wizarr is an automatic user invitation system for Plex.
 
 ## *Arr Scripts
+- [Cleanarr](https://github.com/hrenard/cleanarr/) - A small utility tasked to automatically clean radarr and sonarr files over time.
 - [Collectarr](https://github.com/RiffSphere/Collectarr) - A Python script for checking your Radarr database and setting up collection lists. Also supports "smart" actor lists based on TMDB.
 - [Elsewherr](https://github.com/Adman1020/Elsewherr) - See disclaimer on page. See if your movies from Radarr are available on a streaming service, and add a tag against the movie if it is.
 - [Excludarr](https://github.com/haijeploeg/excludarr) - Excludarr is a CLI that interacts with Radarr and Sonarr instances. It completely manages you library in Sonarr and Radarr to only consist out of movies and series that are not present on any of the configured streaming providers.
@@ -95,6 +103,7 @@ These are dashboards for your *Arrs and various other services on your server.
 - [Dashy](https://github.com/Lissy93/dashy) - A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more.
 - [Flame](https://github.com/pawelmalak/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
 - [Heimdall](https://github.com/linuxserver/Heimdall) - An Application dashboard and launcher.
+- [Homarr](https://github.com/ajnart/homarr) - Customizable browser's home page to interact with your homeserver's Docker containers.
 - [Homepage](https://github.com/benphelps/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integration.
 - [Homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server with offline health check.
 - [Organizr](https://github.com/causefx/Organizr) - HTPC/Homelab Services Organizer - Written in PHP.
