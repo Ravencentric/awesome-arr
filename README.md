@@ -62,6 +62,7 @@ These are not directly part of the official *Arr family but they work similarly 
 - [Rclone](https://rclone.org/) - Rclone is a command-line program to manage files on cloud storage.
 - [Unpackerr](https://github.com/davidnewhall/unpackerr) - Extracts downloads for Radarr, Sonarr, Lidarr, Readarr - Deletes extracted files after import.
 - [Wizarr](https://github.com/Wizarrrr/wizarr) - Wizarr is an automatic user invitation system for Plex.
+- [Wrapperr](https://github.com/aunefyren/wrapperr) - Website based application and API that collects Plex statistics using Tautulli and displays it in a nice format. Similar to the Spotify Wrapped concept.
 
 ## *Arr Scripts
 - [Cleanarr](https://github.com/hrenard/cleanarr/) - A small utility tasked to automatically clean radarr and sonarr files over time.
