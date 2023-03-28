@@ -1,0 +1,9 @@
+url: ravencentric.github.io/awesome-arr
+
+branding:
+  title: Awesome *Arr
+  
+edit:
+  repo: "https://github.com/Ravencentric/awesome-arr/edit/"
+  branch: "main"
+  label: "Edit this page"
