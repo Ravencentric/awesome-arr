@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ravencentric.github.io/retype-test/sitemap.xml.gz
+Sitemap: https://ravencentric.github.io/awesome-arr/sitemap.xml.gz
