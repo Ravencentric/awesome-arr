@@ -52,6 +52,7 @@
 
 ## Complimenting Apps
 
+- [Arr-scripts](https://github.com/RandomNinjaAtk/arr-scripts) - Extended Container Scripts. Designed to be easily implemented/added to Linuxserver.io containers.
 - [Autobrr](https://autobrr.com/) - The modern autodl-irssi replacement.
 - [Autoscan](https://github.com/Cloudbox/autoscan) - Autoscan replaces the default Plex and Emby behaviour for picking up changes on the file system.
 - [Bazarr](https://github.com/morpheus65535/bazarr) - Bazarr is a companion application to Sonarr and Radarr. It manages and downloads subtitles based on your requirements. You define your preferences by TV show or movie and Bazarr takes care of everything for you.
