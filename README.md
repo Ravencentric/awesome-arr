@@ -87,7 +87,6 @@
 - [Rclone](https://rclone.org/) - Rclone is a command-line program to manage files on cloud storage.
 - [Recyclarr](https://github.com/recyclarr/recyclarr) - Automatically sync TRaSH guides to your Sonarr and Radarr instances.
 - [Reiverr](https://github.com/aleksilassila/reiverr) - Reiverr is a clean combined interface for Jellyfin, TMDB, Radarr and Sonarr, as well as a replacement to Overseerr.
-- [Rollarr](https://github.com/TheHumanRobot/Rollarr) - Plex Automatic Pre-roll script with a GUI.
 - [se1exin/Cleanarr](https://github.com/se1exin/Cleanarr) - A simple UI to help find and delete duplicate and sample files from your Plex server.
 - [Sonarr Episode Name Checker](https://github.com/tronyx/sonarr-episode-name-checker) - Bash and Powershell scripts to check for episodes named "Episode ##" or "TBA".
 - [StarrScripts](https://github.com/bakerboy448/StarrScripts) - Misc scripts for starr related apps.
