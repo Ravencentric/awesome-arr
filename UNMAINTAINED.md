@@ -1,4 +1,5 @@
 # Unmaintained
+
 > These haven't been updated in a while and may or may not work as intended anymore.
 
 - [Bobarr](https://github.com/iam4x/bobarr) - The all-in-one alternative for Sonarr, Radarr, Jackett, Transmission, and FlareSolverr with a VPN and running in docker. This is no longer in active development, [author is only accepting PRs](https://github.com/iam4x/bobarr/issues/224#issuecomment-1007031439) for this.  (**Last Commit: Apr 6, 2022**).
@@ -13,5 +14,5 @@
 - [Sick-Beard](https://github.com/midgetspy/Sick-Beard) - PVR & episode guide that downloads and manages all your TV shows (**Last Commit: Mar 21, 2016**).
 - [Syncarr](https://github.com/syncarr/syncarr) - One/two way sync of Radarr, Sonarr, or Lidarr instances (**Last Commit: Jun 8, 2021**).
 - [Timearr](https://github.com/l3uddz/timearr) - Custom Import Script for Sonarr/Radarr/Lidarr to reset the mod-time of imported files (**Last Commit: May 9, 2020**).
-- [Trackarr](https://gitlab.com/cloudb0x/trackarr) - Trackarr monitors tracker announce IRC channel, parses the announcements, and forwards those announcements to *Arr PVRs (**Last Commit: Jun 10 2021**).
+- [Trackarr](https://gitlab.com/cloudb0x/trackarr) - Trackarr monitors tracker announce IRC channel, parses the announcements, and forwards those announcements to *arr PVRs (**Last Commit: Jun 10 2021**).
 - [Wantarr](https://github.com/l3uddz/wantarr) - CLI Tool to find wanted media for the *arr suite (**Last Commit: Jul 31, 2020**).
