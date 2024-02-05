@@ -83,6 +83,7 @@
 - [Overseerr](https://overseerr.dev/) - Request management and media discovery tool for the Plex ecosystem.
 - [Plex Meta Manager](https://github.com/meisnate12/Plex-Meta-Manager) - Plex Meta Manager is an open source Python 3 project that has been designed to ease the creation and maintenance of metadata, collections, and playlists within a Plex Media Server.
 - [Posterr](https://github.com/petersem/posterr) - A digital poster app for Plex, Sonarr, Radarr, and Readarr.
+- [Profilarr](https://github.com/santiagosayshey/Profilarr) - Import, Export & Sync Profiles & Custom Formats via Radarr / Sonarr API.
 - [Prunerr](https://github.com/rpatterson/prunerr) - Perma-seed Servarr media libraries.
 - [Radarr-striptracks](https://github.com/linuxserver/docker-mods/tree/radarr-striptracks) - A Docker Mod for the LinuxServer.io Radarr/Sonarr v3 Docker container that adds a script to automatically strip out unwanted audio and subtitle streams, keeping only the desired languages.
 - [Rclone](https://rclone.org/) - Rclone is a command-line program to manage files on cloud storage.
