@@ -33,6 +33,7 @@
 
 - [Servarr](https://wiki.servarr.com/) -  The consolidated wiki for Lidarr, Prowlarr, Radarr, Readarr, and Sonarr.
 - [TRaSH-Guides](https://trash-guides.info/) - Guides mainly for Sonarr/Radarr/Bazarr and everything related to it.
+- [Snackbox](https://discord.gg/snackbox) - Discord community with a focus on private trackers, releases, and \*arrs.
 
 ## *arrs with Additional Functionality
 
