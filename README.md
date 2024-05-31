@@ -31,6 +31,7 @@
 
 ## Resources
 
+- [Cloud Seeder](https://ipv6.rs/cloudseeder) - 1 click installer and updater for Prowlarr, Lidarr, Radarr, Readarr, Sonarr and Whisparr. Also links and connects qBittorrent. See [YouTube](https://www.youtube.com/watch?v=PrH6Ci_4eig).
 - [Servarr](https://wiki.servarr.com/) -  The consolidated wiki for Lidarr, Prowlarr, Radarr, Readarr, and Sonarr.
 - [TRaSH-Guides](https://trash-guides.info/) - Guides mainly for Sonarr/Radarr/Bazarr and everything related to it.
 - [Snackbox](https://discord.gg/snackbox) - Discord community with a focus on private trackers, releases, and \*arrs.
