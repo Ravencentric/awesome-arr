@@ -110,6 +110,7 @@
 - [Botdarr](https://github.com/shayaantx/botdarr) - Slack/Discord/Telegram/Matrix bot for accessing radarr, sonarr, and lidarr.
 - [Doplarr](https://github.com/kiranshila/Doplarr) - An *arr request bot for Discord.
 - [Invitarr](https://github.com/Sleepingpirates/Invitarr) - Invitarr is a chatbot that invites discord users to plex.
+- [jackett2telegram](https://github.com/danimart1991/jackett2telegram) - A self-hosted Telegram Python Bot that dumps posts from Jackett RSS feeds to a Telegram chat.
 - [Membarr](https://github.com/Yoruio/Membarr) - Discord Bot to invite a user to a Plex or Jellyfin server.
 - [Requestrr](https://github.com/darkalfx/requestrr) - Requestrr is a discord bot used to simplify using services like Sonarr/Radarr/Ombi via the use of chat.
 - [Searcharr](https://github.com/toddrob99/searcharr) - Sonarr & Radarr Telegram Bot.
