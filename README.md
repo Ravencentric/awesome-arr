@@ -134,4 +134,5 @@
 ## Mobile Apps
 
 - [LunaSea](https://github.com/JagandeepBrar/LunaSea) - LunaSea is a fully featured, open source self-hosted controller focused on giving you a seamless experience between all of your self-hosted media software remotely on your devices. LunaSea currently supports Lidarr, Radarr, Sonarr, NZBGet, SABnzbd, Newznab, Indexer Searching, NZBHydra2, Tautulli, and Wake on LAN.
+- [Ruddarr](https://apps.apple.com/app/ruddarr/id6476240130) - Ruddarr is a beautifully designed, open source, companion app for Radarr and Sonarr instances written in SwiftUI.
 - [nzb360](https://nzb360.com/) - Usenet/Torrent manager for Android. Supports SABnzbd, NZBget, Deluge, Transmission, uTorrent, qBittorrent, rTorrent/ruTorrent, Sonarr, Sick Beard, Radarr, Lidarr, Bazarr, Couchpotato, Headphones, Readarr, NEWZnab, Jackett, NZBHydra2 and Prowlarr.
