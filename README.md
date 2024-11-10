@@ -82,6 +82,7 @@
 - [Listrr](https://github.com/TheUltimateC0der/Listrr) - Listrr creates lists for shows and movies based on your filters. The created lists get updated every 24 hours based on your filters, so Listrr will add all new items that match your filters, and will also remove all items that do not match your filter configuration anymore. Supports Sonarr, Radarr, Traktarr and Python-PlexLibrary.
 - [Maintainerr](https://github.com/jorenn92/Maintainerr) - Looks and smells like Overseerr, does the opposite. Maintenance tool for the Plex ecosystem.
 - [Mediarr](https://github.com/l3uddz/mediarr) - CLI tool to add new media to pvr's from the arr suite.
+- [MediathekArr](https://github.com/PCJones/MediathekArr/) -  Integrate ARD&ZDF Mediathek in Prowlarr, Sonarr and Radarr (German free public TV stations)
 - [Midarr](https://github.com/midarrlabs/midarr-server) - Midarr, the minimal lightweight media server.
 - [Monitorr](https://github.com/Monitorr/Monitorr) - Monitorr is a self-hosted PHP web app that monitors the status of local and remote network services, websites, and applications.
 - [Notifiarr](https://notifiarr.com/) - Discord notification system.
