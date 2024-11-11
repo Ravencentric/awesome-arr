@@ -90,6 +90,7 @@
 - [Overseerr](https://overseerr.dev/) - Request management and media discovery tool for the Plex ecosystem.
 - [Plexist](https://github.com/Gyarbij/Plexist) - An application for recreating Spotify and Deezer playlist in Plex.
 - [Posterr](https://github.com/petersem/posterr) - A digital poster app for Plex, Sonarr, Radarr, and Readarr.
+- [Prefetcharr](https://github.com/p-hueber/prefetcharr) - Let Sonarr fetch the next season of a show you are watching on Jellyfin/Emby/Plex. 
 - [Profilarr](https://github.com/santiagosayshey/Profilarr) - Import, Export & Sync Profiles & Custom Formats via Radarr / Sonarr API.
 - [Prunerr](https://github.com/rpatterson/prunerr) - Perma-seed Servarr media libraries.
 - [Radarr-striptracks](https://github.com/linuxserver/docker-mods/tree/radarr-striptracks) - A Docker Mod for the LinuxServer.io Radarr/Sonarr v3 Docker container that adds a script to automatically strip out unwanted audio and subtitle streams, keeping only the desired languages.
