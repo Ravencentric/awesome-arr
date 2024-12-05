@@ -83,6 +83,7 @@
 - [Maintainerr](https://github.com/jorenn92/Maintainerr) - Looks and smells like Overseerr, does the opposite. Maintenance tool for the Plex ecosystem.
 - [Mediarr](https://github.com/l3uddz/mediarr) - CLI tool to add new media to pvr's from the arr suite.
 - [MediathekArr](https://github.com/PCJones/MediathekArr/) -  Integrate ARD&ZDF Mediathek in Prowlarr, Sonarr, and Radarr (German free public TV stations).
+- [MediaStackArr](https://github.com/TopperBG/media-stack) - Full stack with Prowlarr/Radarr/Sonarr/Bazarr/Transmission/QbitTorrent/Jackett/Watchtower/Flaresolver/Homepage+Glances/Overseerr/Plex/Portainer/Tautulli/Torrserver/Kometa (exPlexMetaManager)/Kometa-imagemaid(exPlexImageCleanup)/Dozzle (web Docker logs agregator)/Lingarr+LibreTranslate/Unpackerr. Also optional .yml config for full stack but with help of theme-park.dev all apps could be themed
 - [Midarr](https://github.com/midarrlabs/midarr-server) - Midarr, the minimal lightweight media server.
 - [Monitorr](https://github.com/Monitorr/Monitorr) - Monitorr is a self-hosted PHP web app that monitors the status of local and remote network services, websites, and applications.
 - [Notifiarr](https://notifiarr.com/) - Discord notification system.
