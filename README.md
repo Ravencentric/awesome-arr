@@ -86,7 +86,7 @@
 - [Midarr](https://github.com/midarrlabs/midarr-server) - Midarr, the minimal lightweight media server.
 - [Monitorr](https://github.com/Monitorr/Monitorr) - Monitorr is a self-hosted PHP web app that monitors the status of local and remote network services, websites, and applications.
 - [Notifiarr](https://notifiarr.com/) - Discord notification system.
-- [OCDarr](https://github.com/Vansmak/OCDarr) - Automates sending and deleting episodes or seasons to sonarr one at a time as played
+- [OCDarr](https://github.com/Vansmak/OCDarr) - Automates sending and deleting episodes or seasons to sonarr one at a time as played. 
 - [Ombi](https://github.com/Ombi-app/Ombi) - Ombi is a self-hosted web application that automatically gives your shared Plex or Emby users the ability to request content by themselves! Ombi can be linked to multiple TV Show and Movie DVR tools to create a seamless end-to-end experience for your users.
 - [Omegabrr](https://github.com/autobrr/omegabrr) - Transform monitored shows and movies from the arrs into autobrr filters.
 - [Overseerr](https://overseerr.dev/) - Request management and media discovery tool for the Plex ecosystem.
@@ -103,7 +103,7 @@
 - [Reiverr](https://github.com/aleksilassila/reiverr) - Reiverr is a clean combined interface for Jellyfin, TMDB, Radarr and Sonarr, as well as a replacement to Overseerr.
 - [se1exin/Cleanarr](https://github.com/se1exin/Cleanarr) - A simple UI to help find and delete duplicate and sample files from your Plex server.
 - [Sonarr Episode Name Checker](https://github.com/tronyx/sonarr-episode-name-checker) - Bash and Powershell scripts to check for episodes named "Episode ##" or "TBA".
-- [Soularr](https://github.com/mrusse/soularr) - A Python script that connects Lidarr with Soulseek
+- [Soularr](https://github.com/mrusse/soularr) - A Python script that connects Lidarr with Soulseek. 
 - [StarrScripts](https://github.com/bakerboy448/StarrScripts) - Misc scripts for starr related apps.
 - [SuggestArr](https://github.com/giuseppe99barchetta/SuggestArr) - Automatic media content recommendations and download requests based on user activity on the media server.
 - [Tdarr](https://github.com/HaveAGitGat/Tdarr) - Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking.
