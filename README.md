@@ -11,6 +11,7 @@
 - [\*arr Alternatives](#arr-alternatives)
 - [Complimenting Apps](#complimenting-apps)
 - [Bots](#bots)
+- [Uploading Tools](#uploading-tools)
 - [Dashboards](#dashboards)
 - [Mobile Apps](#mobile-apps)
 
@@ -127,6 +128,13 @@
 - [Membarr](https://github.com/Yoruio/Membarr) - Discord Bot to invite a user to a Plex or Jellyfin server.
 - [Requestrr](https://github.com/darkalfx/requestrr) - Requestrr is a discord bot used to simplify using services like Sonarr/Radarr/Ombi via the use of chat.
 - [Searcharr](https://github.com/toddrob99/searcharr) - Sonarr & Radarr Telegram Bot.
+
+## Uploading Tools
+
+- [Caesura](https://github.com/RogueOneEcho/caesura) - Cli tool to verify, transcode and upload music to gazelle-based trackers.
+- [RedCurry](https://gitlab.com/_mclovin/redcurry) - Cli tool to upload a music release from RED to OPS or vice-versa.
+- [Smoked-Salmon](https://codeberg.org/xmoforf/smoked-salmon) - Music cli uploading tool for RED/OPS.
+- [Upload-Assistant](https://github.com/Audionut/Upload-Assistant) - Movies/TV Shows cli uploading tool.
 
 ## Dashboards
 
