@@ -132,7 +132,9 @@
 ## Uploading Tools
 
 - [Caesura](https://github.com/RogueOneEcho/caesura) - Cli tool to verify, transcode and upload music to gazelle-based trackers.
+- [GG Bot Upload Assistant](https://gitlab.com/NoobMaster669/gg-bot-upload-assistant) - Torrent auto uploader for Movies/TV Shows.
 - [RedCurry](https://gitlab.com/_mclovin/redcurry) - Cli tool to upload a music release from RED to OPS or vice-versa.
+- [red_oxide](https://github.com/DevYukine/red_oxide) - Cli tool to transcode and upload music to RED.
 - [Smoked-Salmon](https://codeberg.org/xmoforf/smoked-salmon) - Music cli uploading tool for RED/OPS.
 - [Upload-Assistant](https://github.com/Audionut/Upload-Assistant) - Movies/TV Shows cli uploading tool.
 
