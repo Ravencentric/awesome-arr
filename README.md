@@ -92,6 +92,7 @@
 - [Omegabrr](https://github.com/autobrr/omegabrr) - Transform monitored shows and movies from the arrs into autobrr filters.
 - [Overseerr](https://overseerr.dev/) - Request management and media discovery tool for the Plex ecosystem.
 - [Plexist](https://github.com/Gyarbij/Plexist) - An application for recreating Spotify and Deezer playlist in Plex.
+- [Plundrio](https://github.com/elsbrock/plundrio) - A put.io download client for *arr implementing the transmission RPC interface.
 - [Posterizarr](https://github.com/fscorrupt/Posterizarr) - Automated poster maker for Plex/Jellyfin/Emby.
 - [Posterr](https://github.com/petersem/posterr) - A digital poster app for Plex, Sonarr, Radarr, and Readarr.
 - [Prefetcharr](https://github.com/p-hueber/prefetcharr) - Let Sonarr fetch the next season of a show you are watching on Jellyfin/Emby/Plex. 
