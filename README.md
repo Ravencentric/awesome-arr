@@ -57,6 +57,7 @@
 - [Autobrr](https://autobrr.com/) - The modern autodl-irssi replacement.
 - [Autoscan](https://github.com/Cloudbox/autoscan) - Autoscan replaces the default Plex and Emby behaviour for picking up changes on the file system.
 - [Bazarr](https://github.com/morpheus65535/bazarr) - Bazarr is a companion application to Sonarr and Radarr. It manages and downloads subtitles based on your requirements. You define your preferences by TV show or movie and Bazarr takes care of everything for you.
+- [Byparr](https://github.com/ThePhaseless/Byparr/) - An alternative to FlareSolverr as a drop-in replacement, built with seleniumbase and FastAPI.
 - [Buildarr](https://github.com/buildarr/buildarr) - A solution to automating deployment and configuration of your *arr stack.
 - [Checkrr](https://github.com/aetaric/checkrr) - Checkrr Scans your library files for corrupt media and replace the files via sonarr and radarr.
 - [Cloud Seeder](https://ipv6.rs/cloudseeder) - 1 click installer and updater for Prowlarr, Lidarr, Radarr, Readarr, Sonarr and Whisparr. Also links and connects qBittorrent.
