@@ -102,7 +102,7 @@
 - [Prunerr](https://github.com/rpatterson/prunerr) - Perma-seed Servarr media libraries.
 - [Radarr-striptracks](https://github.com/linuxserver/docker-mods/tree/radarr-striptracks) - A Docker Mod for the LinuxServer.io Radarr/Sonarr v3 Docker container that adds a script to automatically strip out unwanted audio and subtitle streams, keeping only the desired languages.
 - [Rclone](https://rclone.org/) - Rclone is a command-line program to manage files on cloud storage.
-- [Recommendarr](https://github.com/fingerthief/recommendarr) An AI driven recommendation system based on Radarr and Sonarr library information.
+- [Recommendarr](https://github.com/fingerthief/recommendarr) - An AI driven recommendation system based on Radarr and Sonarr library information.
 - [Recyclarr](https://github.com/recyclarr/recyclarr) - Automatically sync TRaSH guides to your Sonarr and Radarr instances.
 - [Reiverr](https://github.com/aleksilassila/reiverr) - Reiverr is a clean combined interface for Jellyfin, TMDB, Radarr and Sonarr, as well as a replacement to Overseerr.
 - [se1exin/Cleanarr](https://github.com/se1exin/Cleanarr) - A simple UI to help find and delete duplicate and sample files from your Plex server.
