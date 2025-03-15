@@ -102,6 +102,7 @@
 - [Prunerr](https://github.com/rpatterson/prunerr) - Perma-seed Servarr media libraries.
 - [Radarr-striptracks](https://github.com/linuxserver/docker-mods/tree/radarr-striptracks) - A Docker Mod for the LinuxServer.io Radarr/Sonarr v3 Docker container that adds a script to automatically strip out unwanted audio and subtitle streams, keeping only the desired languages.
 - [Rclone](https://rclone.org/) - Rclone is a command-line program to manage files on cloud storage.
+- [Recommendarr](https://github.com/fingerthief/recommendarr) An AI driven recommendation system based on Radarr and Sonarr library information.
 - [Recyclarr](https://github.com/recyclarr/recyclarr) - Automatically sync TRaSH guides to your Sonarr and Radarr instances.
 - [Reiverr](https://github.com/aleksilassila/reiverr) - Reiverr is a clean combined interface for Jellyfin, TMDB, Radarr and Sonarr, as well as a replacement to Overseerr.
 - [se1exin/Cleanarr](https://github.com/se1exin/Cleanarr) - A simple UI to help find and delete duplicate and sample files from your Plex server.
@@ -109,7 +110,6 @@
 - [Soularr](https://github.com/mrusse/soularr) - A Python script that connects Lidarr with Soulseek. 
 - [StarrScripts](https://github.com/bakerboy448/StarrScripts) - Misc scripts for starr related apps.
 - [SuggestArr](https://github.com/giuseppe99barchetta/SuggestArr) - Automatic media content recommendations and download requests based on user activity on the media server.
-- [Recommendarr](https://github.com/fingerthief/recommendarr) An AI driven recommendation system based on Radarr and Sonarr library information.
 - [Tdarr](https://github.com/HaveAGitGat/Tdarr) - Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking.
 - [Toolbarr](https://github.com/Notifiarr/toolbarr) - Provides a suite of utilities to fix problems with Starr applications. Toolbarr allows you to perform various actions against your Starr apps and their SQLite3 databases.
 - [Traktarr](https://github.com/l3uddz/traktarr) - Script to add new series & movies to Sonarr/Radarr based on Trakt lists.
