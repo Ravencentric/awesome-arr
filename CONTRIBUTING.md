@@ -10,12 +10,7 @@ Ensure your pull request adheres to the following guidelines:
 
 - Follow the format `- [Name](link) - A small description.`
 - Maintain alphabetical order in each category.
-
-**Submitting Your Own Project?**
-
-If you are the author of the project you are adding, please be aware of the following:
-
-- Self-submitted projects must meet a popularity threshold:
+- Submitted projects must meet a popularity threshold:
     - **GitHub:** Minimum 50 stars.
     - **Other Platforms:** Comparable community interest.
 
