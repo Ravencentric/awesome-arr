@@ -137,10 +137,7 @@
 > These are dashboards for your *arrs and various other services on your server.
 
 - [Dashy](https://github.com/Lissy93/dashy) - A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more.
-
-  > [!WARNING]  
-  > **Dashy has not received an update in over a year. Consider alternatives if you need active development and support.**
-
+  - Note, Dashy has not received any new release in over a year. Consider alternatives if you need active development and support.
 - [Flame](https://github.com/pawelmalak/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
 - [Heimdall](https://github.com/linuxserver/Heimdall) - An Application dashboard and launcher.
 - [Homarr](https://github.com/homarr-labs/homarr) - A simple, yet powerful dashboard for your server. A sleek, modern dashboard that puts all of your apps and services at your fingertips.
