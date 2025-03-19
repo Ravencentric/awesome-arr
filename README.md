@@ -137,9 +137,10 @@
 > These are dashboards for your *arrs and various other services on your server.
 
 - [Dashy](https://github.com/Lissy93/dashy) - A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more.
+  - Note, Dashy has not received any new release in over a year. Consider alternatives if you need active development and support.
 - [Flame](https://github.com/pawelmalak/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
 - [Heimdall](https://github.com/linuxserver/Heimdall) - An Application dashboard and launcher.
-- [Homarr](https://github.com/ajnart/homarr) - Customizable browser's home page to interact with your homeserver's Docker containers.
+- [Homarr](https://github.com/homarr-labs/homarr) - A simple, yet powerful dashboard for your server. A sleek, modern dashboard that puts all of your apps and services at your fingertips.
 - [Homepage](https://github.com/benphelps/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integration.
 - [Homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server with offline health check.
 - [Organizr](https://github.com/causefx/Organizr) - HTPC/Homelab Services Organizer - Written in PHP.
