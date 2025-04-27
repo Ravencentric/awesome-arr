@@ -79,7 +79,6 @@
 - [Gclone](https://github.com/l3v11/gclone) - A rclone mod with auto SA rotation.
 - [Huntarr](https://github.com/plexguide/Huntarr.io) - A specialized utility that automates discovering missing and upgrading your media collection!
 - [Janitorr](https://github.com/Schaka/janitorr) - Cleans your Radarr, Sonarr, Jellyseerr and Jellyfin before you run out of space.
-- [JDupes](https://codeberg.org/jbruchon/jdupes) - Blazing fast program for identifying and taking actions upon duplicate files such as deleting, hard linking, symlinking, and block-level deduplication.
 - [Jellyseerr](https://github.com/Fallenbagel/jellyseerr) - Open-source media request and discovery manager for Jellyfin, Plex and Emby.
 - [Just A Bunch Of Starr Scripts](https://github.com/angrycuban13/Just-A-Bunch-Of-Starr-Scripts) - PowerShell scripts for Starr apps.
 - [Kometa](https://github.com/Kometa-Team/Kometa) - Kometa (formerly Plex Meta Manager) is an open source Python 3 project that has been designed to ease the creation and maintenance of metadata, collections, and playlists within a Plex Media Server.
