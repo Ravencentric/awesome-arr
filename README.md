@@ -33,6 +33,7 @@
 
 - [Servarr](https://wiki.servarr.com/) -  The consolidated wiki for Lidarr, Prowlarr, Radarr, Readarr, and Sonarr.
 - [TRaSH-Guides](https://trash-guides.info/) - Guides mainly for Sonarr/Radarr/Bazarr and everything related to it.
+- [Support-Arr](https://discord.com/invite/VpZnEVzVqD) - A new Discord support group dedicated to all ARRs in one place! ARR/APP developers are encouraged to join, with the option to manage their own channels within the server. This Discord server offers end-users direct access to developers and provides developers with a user-friendly interface to connect with their audience, supported by an experienced and collaborative community.
 
 ## *arrs with Additional Functionality
 
