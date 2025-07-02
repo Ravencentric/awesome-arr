@@ -1,6 +1,6 @@
 # Awesome *Arr [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> Lidarr, Prowlarr, Radarr, Readarr, Sonarr, and Whisparr are collectively referred to as "*arr" or "*arrs". They are designed to automatically grab, sort, organize, and monitor your Music, Movie, E-Book, or TV Show collections for Lidarr, Radarr, Readarr, Sonarr, and Whisparr; and to manage your indexers and keep them in sync with the aforementioned apps for Prowlarr. This list aims to list all *arrs and things related to them
+> Lidarr, Prowlarr, Radarr, ~~Readarr~~, Sonarr, and Whisparr are collectively referred to as "*arr" or "*arrs". They are designed to automatically grab, sort, organize, and monitor your Music, Movie, E-Book, or TV Show collections for Lidarr, Radarr, ~~Readarr~~, Sonarr, and Whisparr; and to manage your indexers and keep them in sync with the aforementioned apps for Prowlarr. This list aims to list all *arrs and things related to them
 
 ## Contents
 
@@ -20,7 +20,7 @@
 
 - [Lidarr](https://lidarr.audio/) - Lidarr is a music collection manager.
 - [Radarr](https://radarr.video/) - Radarr is a movie collection manager.
-- [Readarr](https://readarr.com/) - Readarr is an ebook collection manager.
+- ~~[Readarr](https://readarr.com/) - Readarr is an ebook collection manager.~~ → Jun 27 2025 ; Announcement: Retirement of Readarr
 - [Sonarr](https://sonarr.tv/) - Smart PVR for newsgroup and bittorrent users.
 - [Whisparr](https://whisparr.com/) - Whisparr is an adult movie collection manager.
 
@@ -31,7 +31,7 @@
 
 ## Resources
 
-- [Servarr](https://wiki.servarr.com/) -  The consolidated wiki for Lidarr, Prowlarr, Radarr, Readarr, and Sonarr.
+- [Servarr](https://wiki.servarr.com/) -  The consolidated wiki for Lidarr, Prowlarr, Radarr, ~~Readarr~~, and Sonarr.
 - [TRaSH-Guides](https://trash-guides.info/) - Guides mainly for Sonarr/Radarr/Bazarr and everything related to it.
 
 ## *arrs with Additional Functionality
@@ -64,11 +64,11 @@
 - [Checkrr](https://github.com/aetaric/checkrr) - Checkrr Scans your library files for corrupt media and replace the files via sonarr and radarr.
 - [Cleanarr (hrenard)](https://github.com/hrenard/cleanarr/) - A small utility tasked to automatically clean radarr and sonarr files over time.
 - [Cleanarr (se1exin)](https://github.com/se1exin/Cleanarr) - A simple UI to help find and delete duplicate and sample files from your Plex server.
-- [Cloud Seeder](https://ipv6.rs/cloudseeder) - 1 click installer and updater for Prowlarr, Lidarr, Radarr, Readarr, Sonarr and Whisparr. Also links and connects qBittorrent.
+- [Cloud Seeder](https://ipv6.rs/cloudseeder) - 1 click installer and updater for Prowlarr, Lidarr, Radarr, ~~Readarr~~, Sonarr and Whisparr. Also links and connects qBittorrent.
 - [Collectarr](https://github.com/RiffSphere/Collectarr) - A Python script for checking your Radarr database and setting up collection lists. Also supports "smart" actor lists based on TMDB.
 - [Crossarr](https://github.com/TMD20/crossarr) - Cross Seed via Arr Programs.
 - [Dasharr](https://github.com/FrenchGithubUser/Dasharr) - Dashboard of torrent indexers usage, profile stats evolution over time.
-- [Decluttarr](https://github.com/ManiMatter/decluttarr) - Watches radarr, sonarr, lidarr, readarr and whisparr download queues and removes downloads if they become stalled or no longer needed.
+- [Decluttarr](https://github.com/ManiMatter/decluttarr) - Watches radarr, sonarr, lidarr, ~~readarr~~ and whisparr download queues and removes downloads if they become stalled or no longer needed.
 - [Deleterr](https://github.com/rfsbraz/deleterr) - Automates deleting inactive and stale media from Plex/Sonarr/Radarr.
 - [Deployarr](https://github.com/anandslab/deployarr) - Deployarr automates Homelab setup using Docker and Docker Compose.
 - [Elsewherr](https://github.com/Adman1020/Elsewherr) - See disclaimer on page. See if your movies from Radarr are available on a streaming service, and add a tag against the movie if it is.
@@ -100,7 +100,7 @@
 - [Plundrio](https://github.com/elsbrock/plundrio) - A put.io download client for *arr implementing the transmission RPC interface.
 - [Posteria](https://github.com/jeremehancock/Posteria) - A sleek, modern solution for managing your movie, TV show, and collection posters.
 - [Posterizarr](https://github.com/fscorrupt/Posterizarr) - Automated poster maker for Plex/Jellyfin/Emby.
-- [Posterr](https://github.com/petersem/posterr) - A digital poster app for Plex, Sonarr, Radarr, and Readarr.
+- [Posterr](https://github.com/petersem/posterr) - A digital poster app for Plex, Sonarr, Radarr, ~~and Readarr~~.
 - [Prefetcharr](https://github.com/p-hueber/prefetcharr) - Let Sonarr fetch the next season of a show you are watching on Jellyfin/Emby/Plex. 
 - [Profilarr](https://github.com/santiagosayshey/Profilarr) - Import, Export & Sync Profiles & Custom Formats via Radarr / Sonarr API.
 - [Proxarr](https://github.com/Fazzani/Proxarr) - Prevents Sonarr/Radarr from downloading media already available for your region on streaming services (e.g., Netflix, Amazon Prime Video)
@@ -108,7 +108,7 @@
 - [Pulsarr](https://github.com/jamcalli/Pulsarr) - An integration tool that bridges Plex watchlists with Sonarr and Radarr, enabling real-time media monitoring and automated content acquisition all from within the Plex App itself.
 - [Radarr-striptracks](https://github.com/linuxserver/docker-mods/tree/radarr-striptracks) - A Docker Mod for the LinuxServer.io Radarr/Sonarr v3 Docker container that adds a script to automatically strip out unwanted audio and subtitle streams, keeping only the desired languages.
 - [Rclone](https://rclone.org/) - Rclone is a command-line program to manage files on cloud storage.
-- [Rreading Glasses](https://github.com/blampe/rreading-glasses) - A faster and better drop-in replacement for Readarr's metadata service that also handles large authors.
+- ~~[Rreading Glasses](https://github.com/blampe/rreading-glasses) - A faster and better drop-in replacement for Readarr's metadata service that also handles large authors.~~
 - [Recommendarr](https://github.com/fingerthief/recommendarr) - An AI driven recommendation system based on Radarr and Sonarr library information.
 - [Recyclarr](https://github.com/recyclarr/recyclarr) - Automatically sync TRaSH guides to your Sonarr and Radarr instances.
 - [Reiverr](https://github.com/aleksilassila/reiverr) - Reiverr is a clean combined interface for Jellyfin, TMDB, Radarr and Sonarr, as well as a replacement to Overseerr.
@@ -121,8 +121,8 @@
 - [Trailarr](https://github.com/nandyalu/trailarr) - A Docker application to download and manage trailers for your Radarr, and Sonarr libraries.
 - [Traktarr](https://github.com/l3uddz/traktarr) - Script to add new series & movies to Sonarr/Radarr based on Trakt lists.
 - [Transcoderr](https://github.com/drkno/transcoderr) - A transcoding pipeline designed to normalize file types into a common filetype. Dynamically configurable using plugins allowing highly customizable pipelines to be built.
-- [UmlautAdaptarr](https://github.com/PCJones/UmlautAdaptarr) - A tool to work around Sonarr, Radarr, Lidarr and Readarrs problems with foreign languages (primarily German at the moment).
-- [Unpackerr](https://github.com/davidnewhall/unpackerr) - Extracts downloads for Radarr, Sonarr, Lidarr, and Readarr - Deletes extracted files after import.
+- [UmlautAdaptarr](https://github.com/PCJones/UmlautAdaptarr) - A tool to work around Sonarr, Radarr, Lidarr ~~and Readarrs~~ problems with foreign languages (primarily German at the moment).
+- [Unpackerr](https://github.com/davidnewhall/unpackerr) - Extracts downloads for Radarr, Sonarr, Lidarr, ~~and Readarr~~ - Deletes extracted files after import.
 - [Watchlistarr](https://github.com/nylonee/watchlistarr) - Automatically sync Plex Watchlists with Sonarr and Radarr.
 - [Wizarr](https://github.com/Wizarrrr/wizarr) - Wizarr is an automatic user invitation system for Plex.
 - [Wrapperr](https://github.com/aunefyren/wrapperr) - Website based application and API that collects Plex statistics using Tautulli and displays it in a nice format. Similar to the Spotify Wrapped concept.
