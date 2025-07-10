@@ -83,6 +83,7 @@
 - [Jellyseerr](https://github.com/Fallenbagel/jellyseerr) - Open-source media request and discovery manager for Jellyfin, Plex and Emby.
 - [Just A Bunch Of Starr Scripts](https://github.com/angrycuban13/Just-A-Bunch-Of-Starr-Scripts) - PowerShell scripts for Starr apps.
 - [Kometa](https://github.com/Kometa-Team/Kometa) - Kometa (formerly Plex Meta Manager) is an open source Python 3 project that has been designed to ease the creation and maintenance of metadata, collections, and playlists within a Plex Media Server.
+- [Labelarr](https://github.com/nullable-eth/labelarr) - Application that bridges your Plex media libraries with The Movie Database, adding relevant keywords as searchable labels or genres for custom filters in Plex.
 - [Lingarr](https://github.com/lingarr-translate/lingarr) - Lingarr integrates with Radarr and Sonarr and automates subtitle translation using various locally hosted or SaaS translation services.
 - [Listrr](https://github.com/TheUltimateC0der/Listrr) - Listrr creates lists for shows and movies based on your filters. The created lists get updated every 24 hours based on your filters, so Listrr will add all new items that match your filters, and will also remove all items that do not match your filter configuration anymore. Supports Sonarr, Radarr, Traktarr and Python-PlexLibrary.
 - [Maintainerr](https://github.com/jorenn92/Maintainerr) - Looks and smells like Overseerr, does the opposite. Maintenance tool for the Plex ecosystem.
