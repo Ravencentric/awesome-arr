@@ -11,6 +11,7 @@
 - [Movearr](https://github.com/l3uddz/movearr) - Simple CLI tool to perform various Radarr/Sonarr move functions.
 - [Plexarr](https://github.com/l3uddz/plexarr) - Fix mismatched media in Plex mastered by Sonarr/Radarr.
 - [Pulsarr](https://github.com/roboticsound/Pulsarr) - Browser extension (currently Chrome & Firefox) for adding movies to Radarr or Series' to Sonarr while browsing IMDB or TVDB.
+- [Readarr](https://github.com/Readarr/Readarr) - Readarr is an ebook collection manager.
 - [Sick-Beard](https://github.com/midgetspy/Sick-Beard) - PVR & episode guide that downloads and manages all your TV shows.
 - [Syncarr](https://github.com/syncarr/syncarr) - One/two way sync of Radarr, Sonarr, or Lidarr instances.
 - [Timearr](https://github.com/l3uddz/timearr) - Custom Import Script for Sonarr/Radarr/Lidarr to reset the mod-time of imported files.
