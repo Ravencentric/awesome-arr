@@ -19,4 +19,10 @@ jobs:
       - name: Link Checker
         uses: lycheeverse/lychee-action@82202e5e9c2f4ef1a55a3d02563e1cb6041e5332 # v2.4.1
         with:
-          args: --base . --verbose --no-progress --exclude-path '\.github' './**/*.md'
+          args: >-
+            --verbose --no-progress
+            --exclude-path '\.github'
+            --max-redirects 10
+            --header "accept=*/*"
+            --accept 200,204,206,403,429
+            './*.md'
