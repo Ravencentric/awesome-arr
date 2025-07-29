@@ -1,11 +1,5 @@
 # Contribution Guidelines
 
-Please note that this project is released with a
-[Contributor Code of Conduct](CODE_OF_CONDUCT.md). By participating in this
-project you agree to abide by its terms.
-
----
-
 Ensure your pull request adheres to the following guidelines:
 
 - Follow the format `- [Name](link) - A small description.`
