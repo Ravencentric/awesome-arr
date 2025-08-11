@@ -23,6 +23,5 @@ jobs:
             --verbose --no-progress
             --exclude-path '\.github'
             --max-redirects 10
-            --header "accept=*/*"
             --accept 200,204,206,403,429
             './*.md'
