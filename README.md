@@ -38,7 +38,7 @@
 - [Docker Lidarr Extended](https://github.com/RandomNinjaAtk/docker-lidarr-extended) - Lidarr application packaged with multiple scripts to provide additional functionality.
 - [Docker Radarr Extended](https://github.com/RandomNinjaAtk/docker-radarr-extended) - Radarr (develop) with bash scripts to automate and extend functionality.
 - [Docker Sonarr Extended](https://github.com/RandomNinjaAtk/docker-sonarr-extended) - Sonarr (develop) with bash scripts to automate and extend functionality.
-- [Lidarr on Steroids](https://github.com/youegraillot/lidarr-on-steroids) - This repository bundles a modded version of Lidarr and Deemix into a docker image.
+- [Lidarr on Steroids](https://github.com/youegraillot/lidarr-on-steroids) - This repository bundles a modded version of Lidarr and Deemix into a Docker image.
 
 ## *arr Alternatives
 
@@ -66,7 +66,7 @@
 - [Cloud Seeder](https://ipv6.rs/cloudseeder) - 1 click installer and updater for Prowlarr, Lidarr, Radarr, Sonarr and Whisparr. Also links and connects qBittorrent.
 - [Collectarr](https://github.com/RiffSphere/Collectarr) - A Python script for checking your Radarr database and setting up collection lists. Also supports "smart" actor lists based on TMDB.
 - [Crossarr](https://github.com/TMD20/crossarr) - Cross Seed via Arr Programs.
-- [Dasharr](https://github.com/FrenchGithubUser/Dasharr) - Dashboard of torrent indexers usage, profile stats evolution over time.
+- [Dasharr](https://github.com/Arcadia-Solutions/Dasharr) - Dashboard of torrent indexers usage, profile stats evolution over time.
 - [Decluttarr](https://github.com/ManiMatter/decluttarr) - Watches radarr, sonarr, lidarr and whisparr download queues and removes downloads if they become stalled or no longer needed.
 - [Deleterr](https://github.com/rfsbraz/deleterr) - Automates deleting inactive and stale media from Plex/Sonarr/Radarr.
 - [Deployarr](https://github.com/anandslab/deployarr) - Deployarr automates Homelab setup using Docker and Docker Compose.
@@ -134,7 +134,7 @@
 - [Invitarr](https://github.com/Sleepingpirates/Invitarr) - Invitarr is a chatbot that invites discord users to plex.
 - [jackett2telegram](https://github.com/danimart1991/jackett2telegram) - A self-hosted Telegram Python Bot that dumps posts from Jackett RSS feeds to a Telegram chat.
 - [Membarr](https://github.com/Yoruio/Membarr) - Discord Bot to invite a user to a Plex or Jellyfin server.
-- [Requestrr](https://github.com/darkalfx/requestrr) - Requestrr is a discord bot used to simplify using services like Sonarr/Radarr/Ombi via the use of chat.
+- [Requestrr](https://github.com/darkalfx/requestrr) - Requestrr is a Discord bot used to simplify using services like Sonarr/Radarr/Ombi via the use of chat.
 - [Searcharr](https://github.com/toddrob99/searcharr) - Sonarr & Radarr Telegram Bot.
 
 ## Dashboards
