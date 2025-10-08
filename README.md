@@ -63,6 +63,7 @@
 - [Checkrr](https://github.com/aetaric/checkrr) - Checkrr Scans your library files for corrupt media and replace the files via sonarr and radarr.
 - [Cleanarr (hrenard)](https://github.com/hrenard/cleanarr/) - A small utility tasked to automatically clean radarr and sonarr files over time.
 - [Cleanarr (se1exin)](https://github.com/se1exin/Cleanarr) - A simple UI to help find and delete duplicate and sample files from your Plex server.
+- [Cleanuparr](https://github.com/Cleanuparr/Cleanuparr) - An advanced cleaner for dead or malicious torrents.
 - [Cloud Seeder](https://ipv6.rs/cloudseeder) - 1 click installer and updater for Prowlarr, Lidarr, Radarr, Sonarr and Whisparr. Also links and connects qBittorrent.
 - [Collectarr](https://github.com/RiffSphere/Collectarr) - A Python script for checking your Radarr database and setting up collection lists. Also supports "smart" actor lists based on TMDB.
 - [Crossarr](https://github.com/TMD20/crossarr) - Cross Seed via Arr Programs.
@@ -116,7 +117,8 @@
 - [Soularr](https://github.com/mrusse/soularr) - A Python script that connects Lidarr with Soulseek. 
 - [StarrScripts](https://github.com/bakerboy448/StarrScripts) - Misc scripts for starr related apps.
 - [SuggestArr](https://github.com/giuseppe99barchetta/SuggestArr) - Automatic media content recommendations and download requests based on user activity on the media server.
-- [Tdarr](https://github.com/HaveAGitGat/Tdarr) - Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking.
+- [Taggarr](https://github.com/BassHous3/taggarr) - Dub analysis and tagging for media management and filtering your favourite shows in dub. 
+- [Tdarr](https://github.com/HaveAGitGat/Tdarr) - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking.
 - [Toolbarr](https://github.com/Notifiarr/toolbarr) - Provides a suite of utilities to fix problems with Starr applications. Toolbarr allows you to perform various actions against your Starr apps and their SQLite3 databases.
 - [Trailarr](https://github.com/nandyalu/trailarr) - A Docker application to download and manage trailers for your Radarr, and Sonarr libraries.
 - [Traktarr](https://github.com/l3uddz/traktarr) - Script to add new series & movies to Sonarr/Radarr based on Trakt lists.
