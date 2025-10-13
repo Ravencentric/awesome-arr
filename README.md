@@ -139,6 +139,7 @@
 - [Membarr](https://github.com/Yoruio/Membarr) - Discord Bot to invite a user to a Plex or Jellyfin server.
 - [Requestrr](https://github.com/darkalfx/requestrr) - Requestrr is a Discord bot used to simplify using services like Sonarr/Radarr/Ombi via the use of chat.
 - [Searcharr](https://github.com/toddrob99/searcharr) - Sonarr & Radarr Telegram Bot.
+- [Trialarr](https://github.com/zluckytraveler/Trialarr) - A Discord bot for sending Plex trial invites and then automatically removing server access once the trial period has ended.
 
 ## Dashboards
 
