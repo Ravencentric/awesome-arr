@@ -87,6 +87,7 @@
 - [Labelarr](https://github.com/nullable-eth/labelarr) - Application that bridges your Plex media libraries with The Movie Database, adding relevant keywords as searchable labels or genres for custom filters in Plex.
 - [Letterboxd List Radarr](https://github.com/screeny05/letterboxd-list-radarr) - Connect Radarr to letterboxd.com lists.
 - [Lingarr](https://github.com/lingarr-translate/lingarr) - Lingarr integrates with Radarr and Sonarr and automates subtitle translation using various locally hosted or SaaS translation services.
+- [Linkarr](https://github.com/itsmejoeeey/linkarr) - Automatically organize your media library without moving or duplicating the source files.
 - [Listrr](https://github.com/TheUltimateC0der/Listrr) - Listrr creates lists for shows and movies based on your filters. The created lists get updated every 24 hours based on your filters, so Listrr will add all new items that match your filters, and will also remove all items that do not match your filter configuration anymore. Supports Sonarr, Radarr, Traktarr and Python-PlexLibrary.
 - [Maintainerr](https://github.com/jorenn92/Maintainerr) - Looks and smells like Overseerr, does the opposite. Maintenance tool for the Plex ecosystem.
 - [Managarr](https://github.com/Dark-Alex-17/managarr) - A TUI and CLI to help you manage all your Servarrs.
