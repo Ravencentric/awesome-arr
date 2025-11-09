@@ -151,7 +151,7 @@
 - [Flame](https://github.com/pawelmalak/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
 - [Heimdall](https://github.com/linuxserver/Heimdall) - An Application dashboard and launcher.
 - [Homarr](https://github.com/homarr-labs/homarr) - A simple, yet powerful dashboard for your server. A sleek, modern dashboard that puts all of your apps and services at your fingertips.
-- [Homepage](https://github.com/benphelps/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integration.
+- [Homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integration.
 - [Homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server with offline health check.
 - [Organizr](https://github.com/causefx/Organizr) - HTPC/Homelab Services Organizer - Written in PHP.
 
