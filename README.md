@@ -100,6 +100,7 @@
 - [OCDarr](https://github.com/Vansmak/OCDarr) - Automates sending and deleting episodes or seasons to sonarr one at a time as played. 
 - [Ombi](https://github.com/Ombi-app/Ombi) - Ombi is a self-hosted web application that automatically gives your shared Plex or Emby users the ability to request content by themselves! Ombi can be linked to multiple TV Show and Movie DVR tools to create a seamless end-to-end experience for your users.
 - [Overseerr](https://overseerr.dev/) - Request management and media discovery tool for the Plex ecosystem.
+- [OxiCleanArr](https://github.com/ramonskie/oxicleanarr) - OxiCleanarr removes media clutter from your Jellyfin server with the power and effectiveness you'd expect from a product endorsed by Billy Mays himself! Just like OxiClean tackles tough stains, OxiCleanarr tackles your unwatched/watched media backlog. from jellyfin,jellyseer and radarr/sonarr
 - [Plexist](https://github.com/Gyarbij/Plexist) - An application for recreating Spotify and Deezer playlist in Plex.
 - [Plundrio](https://github.com/elsbrock/plundrio) - A put.io download client for *arr implementing the transmission RPC interface.
 - [Posteria](https://github.com/jeremehancock/Posteria) - A sleek, modern solution for managing your movie, TV show, and collection posters.
