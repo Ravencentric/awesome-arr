@@ -52,6 +52,7 @@
 
 ## Complimenting Apps
 
+- [Arr-Dashboard](https://github.com/Kha-kis/arr-dashboard) - A unified dashboard for managing multiple Sonarr, Radarr, and Prowlarr instances.
 - [Arr-scripts](https://github.com/RandomNinjaAtk/arr-scripts) - Extended Container Scripts. Designed to be easily implemented/added to Linuxserver.io containers.
 - [Autobrr](https://autobrr.com/) - The modern autodl-irssi replacement.
 - [Autopulse](https://github.com/dan-online/autopulse) - An automated lightweight service that updates media servers like Plex and Jellyfin based on notifications from media organizers like Sonarr and Radarr.
