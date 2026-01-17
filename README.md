@@ -95,7 +95,7 @@
 - [Managarr](https://github.com/Dark-Alex-17/managarr) - A TUI and CLI to help you manage all your Servarrs.
 - [Mediarr](https://github.com/l3uddz/mediarr) - CLI tool to add new media to pvr's from the arr suite.
 - [MediathekArr](https://github.com/PCJones/MediathekArr/) -  Integrate ARD&ZDF Mediathek in Prowlarr, Sonarr, and Radarr (German free public TV stations).
-- [MediathekArr (Node.js)](https://github.com/mediathekarr/mediathekarr) - Lightweight Node.js alternative for integrating ARD&ZDF Mediathek with Sonarr/Radarr (German public TV).
+- [RundfunkArr](https://github.com/rundfunkarr/rundfunkarr) - Lightweight Node.js alternative for integrating ARD&ZDF Mediathek with Sonarr/Radarr, includes Radarr support for movies (German public TV).
 - [Midarr](https://github.com/midarrlabs/midarr-server) - Midarr, the minimal lightweight media server.
 - [Monitorr](https://github.com/Monitorr/Monitorr) - Monitorr is a self-hosted PHP web app that monitors the status of local and remote network services, websites, and applications.
 - [Notifiarr](https://notifiarr.com/) - Discord notification system.
