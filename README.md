@@ -95,7 +95,6 @@
 - [Managarr](https://github.com/Dark-Alex-17/managarr) - A TUI and CLI to help you manage all your Servarrs.
 - [Mediarr](https://github.com/l3uddz/mediarr) - CLI tool to add new media to pvr's from the arr suite.
 - [MediathekArr](https://github.com/PCJones/MediathekArr/) -  Integrate ARD&ZDF Mediathek in Prowlarr, Sonarr, and Radarr (German free public TV stations).
-- [RundfunkArr](https://github.com/rundfunkarr/rundfunkarr) - Lightweight Node.js alternative for integrating ARD&ZDF Mediathek with Sonarr/Radarr, includes Radarr support for movies (German public TV).
 - [Midarr](https://github.com/midarrlabs/midarr-server) - Midarr, the minimal lightweight media server.
 - [Monitorr](https://github.com/Monitorr/Monitorr) - Monitorr is a self-hosted PHP web app that monitors the status of local and remote network services, websites, and applications.
 - [Notifiarr](https://notifiarr.com/) - Discord notification system.
@@ -117,6 +116,7 @@
 - [Recommendarr](https://github.com/fingerthief/recommendarr) - An AI driven recommendation system based on Radarr and Sonarr library information.
 - [Recyclarr](https://github.com/recyclarr/recyclarr) - Automatically sync TRaSH guides to your Sonarr and Radarr instances.
 - [Reiverr](https://github.com/aleksilassila/reiverr) - Reiverr is a clean combined interface for Jellyfin, TMDB, Radarr and Sonarr, as well as a replacement to Overseerr.
+- [RundfunkArr](https://github.com/rundfunkarr/rundfunkarr) - Lightweight Node.js alternative for integrating ARD&ZDF Mediathek with Sonarr/Radarr, includes Radarr support for movies (German public TV).
 - [Scraparr](https://github.com/thecfu/scraparr) - This will generate Prometheus Metrics gathered from various *arr and *arr-stack applications.
 - [Sonarr Episode Name Checker](https://github.com/tronyx/sonarr-episode-name-checker) - Bash and Powershell scripts to check for episodes named "Episode ##" or "TBA".
 - [Soularr](https://github.com/mrusse/soularr) - A Python script that connects Lidarr with Soulseek. 
