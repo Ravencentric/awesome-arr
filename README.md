@@ -111,7 +111,7 @@
 - [Proxarr](https://github.com/Fazzani/Proxarr) - Prevents Sonarr/Radarr from downloading media already available for your region on streaming services (e.g., Netflix, Amazon Prime Video)
 - [Prunerr](https://github.com/rpatterson/prunerr) - Perma-seed Servarr media libraries.
 - [Pulsarr](https://github.com/jamcalli/Pulsarr) - An integration tool that bridges Plex watchlists with Sonarr and Radarr, enabling real-time media monitoring and automated content acquisition all from within the Plex App itself.
-- [Quasarr](https://github.com/rix1337/Quasarr) - Quasarr connects JDownloader with Radarr, Sonarr and LazyLibrarian. It also decrypts links protected by CAPTCHAs.
+- [Quasarr](https://github.com/rix1337/Quasarr) - Quasarr connects JDownloader with Radarr, Sonarr, Lidarr and LazyLibrarian. It also decrypts links protected by CAPTCHAs.
 - [Radarr-striptracks](https://github.com/linuxserver/docker-mods/tree/radarr-striptracks) - A Docker Mod for the LinuxServer.io Radarr/Sonarr v3 Docker container that adds a script to automatically strip out unwanted audio and subtitle streams, keeping only the desired languages.
 - [Rclone](https://rclone.org/) - Rclone is a command-line program to manage files on cloud storage.
 - [Recommendarr](https://github.com/fingerthief/recommendarr) - An AI driven recommendation system based on Radarr and Sonarr library information.
