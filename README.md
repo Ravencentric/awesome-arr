@@ -4,15 +4,17 @@
 
 ## Contents
 
-- [Primary \*arrs](#primary-arrs)
-- [Indexer Managers](#indexer-managers)
-- [Resources](#resources)
-- [\*arrs with Additional Functionality](#arrs-with-additional-functionality)
-- [\*arr Alternatives](#arr-alternatives)
-- [Complimenting Apps](#complimenting-apps)
-- [Bots](#bots)
-- [Dashboards](#dashboards)
-- [Mobile Apps](#mobile-apps)
+- [Awesome \*Arr ](#awesome-arr-)
+  - [Contents](#contents)
+  - [Primary \*arrs](#primary-arrs)
+  - [Indexer Managers](#indexer-managers)
+  - [Resources](#resources)
+  - [\*arrs with Additional Functionality](#arrs-with-additional-functionality)
+  - [\*arr Alternatives](#arr-alternatives)
+  - [Complimenting Apps](#complimenting-apps)
+  - [Bots](#bots)
+  - [Dashboards](#dashboards)
+  - [Mobile Apps](#mobile-apps)
 
 ## Primary *arrs
 
