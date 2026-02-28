@@ -116,6 +116,7 @@
 - [Recommendarr](https://github.com/fingerthief/recommendarr) - An AI driven recommendation system based on Radarr and Sonarr library information.
 - [Recyclarr](https://github.com/recyclarr/recyclarr) - Automatically sync TRaSH guides to your Sonarr and Radarr instances.
 - [Reiverr](https://github.com/aleksilassila/reiverr) - Reiverr is a clean combined interface for Jellyfin, TMDB, Radarr and Sonarr, as well as a replacement to Overseerr.
+- [RundfunkArr](https://github.com/rundfunkarr/rundfunkarr) - Lightweight Node.js alternative for integrating ARD&ZDF Mediathek with Sonarr/Radarr, includes Radarr support for movies (German public TV).
 - [Scraparr](https://github.com/thecfu/scraparr) - This will generate Prometheus Metrics gathered from various *arr and *arr-stack applications.
 - [Sonarr Episode Name Checker](https://github.com/tronyx/sonarr-episode-name-checker) - Bash and Powershell scripts to check for episodes named "Episode ##" or "TBA".
 - [Soularr](https://github.com/mrusse/soularr) - A Python script that connects Lidarr with Soulseek. 
