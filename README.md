@@ -4,17 +4,15 @@
 
 ## Contents
 
-- [Awesome \*Arr ](#awesome-arr-)
-  - [Contents](#contents)
-  - [Primary \*arrs](#primary-arrs)
-  - [Indexer Managers](#indexer-managers)
-  - [Resources](#resources)
-  - [\*arrs with Additional Functionality](#arrs-with-additional-functionality)
-  - [Specialized \*arr Variants](#specialized-arr-variants)
-  - [Complimenting Apps](#complimenting-apps)
-  - [Bots](#bots)
-  - [Dashboards](#dashboards)
-  - [Mobile Apps](#mobile-apps)
+- [Primary \*arrs](#primary-arrs)
+- [Indexer Managers](#indexer-managers)
+- [Resources](#resources)
+- [\*arrs with Additional Functionality](#arrs-with-additional-functionality)
+- [Beyond \*arr](#beyond-arr)
+- [Complimenting Apps](#complimenting-apps)
+- [Bots](#bots)
+- [Dashboards](#dashboards)
+- [Mobile Apps](#mobile-apps)
 
 ## Primary *arrs
 
@@ -42,9 +40,9 @@
 - [Docker Sonarr Extended](https://github.com/RandomNinjaAtk/docker-sonarr-extended) - Sonarr (develop) with bash scripts to automate and extend functionality.
 - [Lidarr on Steroids](https://github.com/youegraillot/lidarr-on-steroids) - This repository bundles a modded version of Lidarr and Deemix into a Docker image.
 
-## Specialized *arr Variants
+## Beyond *arr
 
-> These work similarly to an *arr and serve as an alternative to them.
+> These serve as alternatives to the *arr ecosystem, offering similar automation and media management capabilities.
 
 - [Flexget](https://github.com/Flexget/Flexget) - FlexGet is a multipurpose automation tool for all of your media. Support for torrents, nzbs, podcasts, comics, TV, movies, RSS, HTML, CSV, and more.
 - [Kapowarr](https://github.com/Casvt/Kapowarr) - Kapowarr is a software to build and manage a comic book library.
