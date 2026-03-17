@@ -10,7 +10,7 @@
   - [Indexer Managers](#indexer-managers)
   - [Resources](#resources)
   - [\*arrs with Additional Functionality](#arrs-with-additional-functionality)
-  - [\*arr Alternatives](#arr-alternatives)
+  - [Specialized \*arr Variants](#specialized-arr-variants)
   - [Complimenting Apps](#complimenting-apps)
   - [Bots](#bots)
   - [Dashboards](#dashboards)
@@ -42,7 +42,7 @@
 - [Docker Sonarr Extended](https://github.com/RandomNinjaAtk/docker-sonarr-extended) - Sonarr (develop) with bash scripts to automate and extend functionality.
 - [Lidarr on Steroids](https://github.com/youegraillot/lidarr-on-steroids) - This repository bundles a modded version of Lidarr and Deemix into a Docker image.
 
-## *arr Alternatives
+## Specialized *arr Variants
 
 > These work similarly to an *arr and serve as an alternative to them.
 
@@ -50,6 +50,7 @@
 - [Kapowarr](https://github.com/Casvt/Kapowarr) - Kapowarr is a software to build and manage a comic book library.
 - [Medusa](https://pymedusa.com/) - Medusa is an automatic Video Library Manager for TV Shows. It watches for new episodes of your favorite shows, and when they are posted it does its magic: automatic torrent/nzb searching, downloading, and processing at the qualities you want.
 - [Mylar3](https://github.com/mylar3/mylar3) - The python3 version of the automated Comic Book downloader (cbr/cbz) for use with various download clients.
+- [Questarr](https://github.com/Doezer/Questarr) - Track and organize your video game collection with automated discovery and download management.S
 - [SickGear](https://github.com/SickGear/SickGear) - SickGear has proven the most reliable stable TV fork of the great Sick-Beard to fully automate TV enjoyment with innovation.
 - [SoulSync](https://github.com/Nezreka/SoulSync) - Intelligent Music Discovery & Automation Platform. Automates downloads, curates playlists, monitors artists, and organizes your collection
 
