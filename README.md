@@ -129,6 +129,7 @@
 - [Trailarr](https://github.com/nandyalu/trailarr) - A Docker application to download and manage trailers for your Radarr, and Sonarr libraries.
 - [Traktarr](https://github.com/l3uddz/traktarr) - Script to add new series & movies to Sonarr/Radarr based on Trakt lists.
 - [Transcoderr](https://github.com/drkno/transcoderr) - A transcoding pipeline designed to normalize file types into a common filetype. Dynamically configurable using plugins allowing highly customizable pipelines to be built.
+- [Triggarr](https://github.com/thejuran/triggarr) - Lightweight search automation daemon that hunts for missing content and quality upgrades in Radarr and Sonarr.
 - [UmlautAdaptarr](https://github.com/PCJones/UmlautAdaptarr) - A tool to work around Sonarr, Radarr and Lidarr problems with foreign languages (primarily German at the moment).
 - [Unpackerr](https://github.com/davidnewhall/unpackerr) - Extracts downloads for Radarr, Sonarr, and Lidarr - Deletes extracted files after import.
 - [Watchlistarr](https://github.com/nylonee/watchlistarr) - Automatically sync Plex Watchlists with Sonarr and Radarr.
