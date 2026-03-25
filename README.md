@@ -95,6 +95,7 @@
 - [Maintainerr](https://github.com/jorenn92/Maintainerr) - Looks and smells like Overseerr, does the opposite. Maintenance tool for the Plex ecosystem.
 - [Managarr](https://github.com/Dark-Alex-17/managarr) - A TUI and CLI to help you manage all your Servarrs.
 - [Mediarr](https://github.com/l3uddz/mediarr) - CLI tool to add new media to pvr's from the arr suite.
+- [Mediastarr](https://github.com/kroeberd/mediastarr) - Automated media search for Sonarr & Radarr — finds missing content and quality upgrades on a configurable schedule. Web dashboard, first-run wizard, SQLite history, multi-instance support, Discord notifications and 3 themes. 
 - [MediathekArr](https://github.com/PCJones/MediathekArr/) -  Integrate ARD&ZDF Mediathek in Prowlarr, Sonarr, and Radarr (German free public TV stations).
 - [Midarr](https://github.com/midarrlabs/midarr-server) - Midarr, the minimal lightweight media server.
 - [Monitorr](https://github.com/Monitorr/Monitorr) - Monitorr is a self-hosted PHP web app that monitors the status of local and remote network services, websites, and applications.
