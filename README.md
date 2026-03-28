@@ -54,6 +54,7 @@
 
 ## Complimenting Apps
 
+- [Admirarr](https://github.com/maxtechera/admirarr) - Unified CLI for Jellyfin/Plex + *Arr stacks — deploy, configure, diagnose, and operate your fleet from a single binary with AI agent support via SKILL.md.
 - [Arr-scripts](https://github.com/RandomNinjaAtk/arr-scripts) - Extended Container Scripts. Designed to be easily implemented/added to Linuxserver.io containers.
 - [Autobrr](https://autobrr.com/) - The modern autodl-irssi replacement.
 - [Autopulse](https://github.com/dan-online/autopulse) - An automated lightweight service that updates media servers like Plex and Jellyfin based on notifications from media organizers like Sonarr and Radarr.
