@@ -12,7 +12,7 @@ By participating in this project you agree to abide by its terms. -->
 
 - [ ] Entry uses format: `- [Name](link) - Description`
 - [ ] Entry is in alphabetical order within its section
-- [ ] Project has >=100 GitHub stars (or comparable traction)
+- [ ] Project has >=100 GitHub stars (if hosted on GitHub)
 - [ ] Project is at least 1 year old (from first public release)
 - [ ] Project shows recent activity (within ~12 months)
 - [ ] Project is not mostly auto-generated
