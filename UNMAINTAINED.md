@@ -6,6 +6,7 @@
 - [Bonarr](https://github.com/bonarr/Bonarr) - Bonarr is an independent fork of Radarr reworked for automatically downloading adult movies via Usenet and BitTorrent.
 - [Cardigann](https://github.com/cardigann/cardigann) - A proxy server for adding new indexers to Sonarr, SickRage and other media managers.
 - [Comandarr](https://github.com/Commandarr/Commandarr) - Comandarr is a bot that will interact with Sonarr, Radarr and Lidarr.
+- [Invitarr](https://github.com/faizyy01/Invitarr) - A chatbot that invites discord users to plex.
 - [Listarr](https://github.com/christophercatt/listarr) - A Trakt.tv list -> Sonarr implementation, emulating the list functionality found within Radarr.
 - [Logarr](https://github.com/Monitorr/logarr) - Logarr is a self-hosted PHP web app that consolidates, formats, and displays log and text files for easy analysis and monitoring.
 - [Movearr](https://github.com/l3uddz/movearr) - Simple CLI tool to perform various Radarr/Sonarr move functions.

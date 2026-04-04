@@ -1,0 +1,11 @@
+[global]
+exclude = [
+    ".git",
+    "CODE_OF_CONDUCT.md",
+]
+disable = [
+    "MD013", # Line length because awesome.re forbids hard-wrapping.
+             # https://github.com/sindresorhus/awesome/blob/main/pull_request_template.md#requirements-for-your-awesome-list
+
+]
+respect-gitignore = true
