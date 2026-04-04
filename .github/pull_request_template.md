@@ -1,24 +1,21 @@
-<!-- 
-# Contribution Guidelines
+<!-- Please note that this project is released with a
+[Contributor Code of Conduct](CODE_OF_CONDUCT.md).
+By participating in this project you agree to abide by its terms. -->
 
-Please note that this project is released with a
-[Contributor Code of Conduct](CODE_OF_CONDUCT.md). By participating in this
-project you agree to abide by its terms.
+## Submission
+
+- Name - A one-two line description that clearly explains what the project does, without marketing fluff.
 
 ---
 
-Ensure your pull request adheres to the following guidelines:
+## Requirements
 
-- Follow the format `- [Name](link) - A small description.`
-- Maintain alphabetical order in each category.
-- Submitted projects must meet a popularity threshold:
-    - **GitHub:** Minimum 50 stars.
-    - **Other Platforms:** Comparable community interest.
+- [ ] Entry uses format: `- [Name](link) - Description`
+- [ ] Entry is in alphabetical order within its section
+- [ ] Project has >=100 GitHub stars (or comparable traction)
+- [ ] Project is at least 1 year old (from first public release)
+- [ ] Project shows recent activity (within ~12 months)
+- [ ] Project is not mostly auto-generated
+- [ ] This PR was written by a human. If you do not have time to write it yourself, I do not have time to review it
 
-I apologize if this feels like an arbitrary hurdle. Unfortunately, to keep this list focused and manageable, 
-and to ensure it highlights projects that have demonstrated some level of community validation, 
-I need a way to fairly filter submissions. I simply cannot include every project, and without some kind of metric, 
-reviewing and rejecting projects becomes very subjective and unsustainable.
-
-This check is an attempt to introduce a degree of fairness and objectivity to the process. Thank you for your understanding.
--->
+Submissions that do not meet these criteria may be closed without review.
