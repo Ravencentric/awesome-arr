@@ -96,7 +96,7 @@
 - [MediathekArr](https://github.com/PCJones/MediathekArr/) - Integrate ARD&ZDF Mediathek in Prowlarr, Sonarr, and Radarr (German free public TV stations).
 - [Midarr](https://github.com/midarrlabs/midarr-server) - The minimal lightweight media server.
 - [Monitorr](https://github.com/Monitorr/Monitorr) - A self-hosted PHP web app that monitors the status of local and remote network services, websites, and applications.
-- [Muxarr](https://github.com/KirovAir/muxarr) - Optimize and clean up your media library by stripping redundant audio tracks and subtitles without re-encoding. Features Sonarr/Radarr integration for original language detection and automatic processing, and an easy-to-use web interface to preview changes.
+- [Muxarr](https://github.com/KirovAir/muxarr) - Optimize and clean up your media library by stripping redundant audio tracks and subtitles without re-encoding. Features *arr integration for original language detection and automatic processing, with an easy-to-use web interface to preview changes.
 - [Notifiarr](https://notifiarr.com/) - Discord notification system.
 - [Ombi](https://github.com/Ombi-app/Ombi) - A self-hosted web application that automatically gives your shared Plex or Emby users the ability to request content by themselves! Ombi can be linked to multiple TV Show and Movie DVR tools to create a seamless end-to-end experience for your users.
 - [Plexist](https://github.com/Gyarbij/Plexist) - An application for recreating Spotify and Deezer playlist in Plex.
