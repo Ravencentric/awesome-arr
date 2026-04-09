@@ -36,7 +36,7 @@
 ## *arrs with Additional Functionality
 
 - [Lidarr on Steroids](https://github.com/youegraillot/lidarr-on-steroids) - This repository bundles a modded version of Lidarr and Deemix into a Docker image.
-- [Sonarr (mod)](https://github.com/Snaacky/Sonarr) - An anime-focused fork of Sonarr's v4 develop branch for CJK media.[^1]
+- [Sonarr (mod)](https://github.com/Snaacky/Sonarr)[^1] - An anime-focused fork of Sonarr's v4 develop branch for CJK media.
 
 [^1]: Disclaimer: The author is a friend of mine.
 
