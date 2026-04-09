@@ -35,10 +35,10 @@
 
 ## *arrs with Additional Functionality
 
-- [Docker Lidarr Extended](https://github.com/RandomNinjaAtk/docker-lidarr-extended) - Lidarr application packaged with multiple scripts to provide additional functionality.
-- [Docker Radarr Extended](https://github.com/RandomNinjaAtk/docker-radarr-extended) - Radarr (develop) with bash scripts to automate and extend functionality.
-- [Docker Sonarr Extended](https://github.com/RandomNinjaAtk/docker-sonarr-extended) - Sonarr (develop) with bash scripts to automate and extend functionality.
 - [Lidarr on Steroids](https://github.com/youegraillot/lidarr-on-steroids) - This repository bundles a modded version of Lidarr and Deemix into a Docker image.
+- [Sonarr (mod)](https://github.com/Snaacky/Sonarr) - An anime-focused fork of Sonarr's v4 develop branch for CJK media.[^1]
+
+[^1]: Disclaimer: The author is a friend of mine.
 
 ## Beyond *arr
 
