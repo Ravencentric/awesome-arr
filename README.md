@@ -73,6 +73,7 @@
 - [Decluttarr](https://github.com/ManiMatter/decluttarr) - Watches radarr, sonarr, lidarr and whisparr download queues and removes downloads if they become stalled or no longer needed.
 - [Deleterr](https://github.com/rfsbraz/deleterr) - Automates deleting inactive and stale media from Plex/Sonarr/Radarr.
 - [Deployrr](https://github.com/SimpleHomelab/Deployrr) - Automates Homelab setup using Docker and Docker Compose.
+- [Digarr](https://github.com/iuliandita/digarr) - AI-powered music discovery that builds a taste profile from your listening sources and finds new artists. Optionally sends approved artists straight to Lidarr.
 - [Episeerr](https://github.com/Vansmak/episeerr) - Automates sending and deleting episodes or seasons to sonarr one at a time as played.
 - [Excludarr](https://github.com/haijeploeg/excludarr) - A CLI that interacts with Radarr and Sonarr instances. It completely manages you library in Sonarr and Radarr to only consist out of movies and series that are not present on any of the configured streaming providers.
 - [Exportarr](https://github.com/onedr0p/exportarr) - This will export metrics gathered from Sonarr, Radarr, Lidarr, or Prowlarr.
