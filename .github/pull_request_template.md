@@ -4,7 +4,7 @@ By participating in this project you agree to abide by its terms. -->
 
 ## Submission
 
-- Name - A one-two line description that clearly explains what the project does, without marketing fluff.
+- Name - A short description that clearly explains what the project does, without marketing fluff.
 
 ---
 
@@ -12,10 +12,13 @@ By participating in this project you agree to abide by its terms. -->
 
 - [ ] Entry uses format: `- [Name](link) - Description`
 - [ ] Entry is in alphabetical order within its section
-- [ ] Project has >=100 GitHub stars (if hosted on GitHub)
+- [ ] Project has >=100 GitHub stars (if hosted on GitHub)[^1]
 - [ ] Project is at least 1 year old (from first public release)
 - [ ] Project shows recent activity (within ~12 months)
-- [ ] Project is not mostly auto-generated
+- [ ] Project is not mostly auto-generated[^2]
 - [ ] This PR was written by a human. If you do not have time to write it yourself, I do not have time to review it
 
 Submissions that do not meet these criteria may be closed without review.
+
+[^1]: Not a strict requirement, interesting projects may still be considered even if they have fewer stars.
+[^2]: Any use of AI in the project must be disclosed honestly in the project itself (e.g., in the README or documentation).
