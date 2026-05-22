@@ -32,6 +32,7 @@
 
 - [Servarr](https://wiki.servarr.com/) - The consolidated wiki for Lidarr, Prowlarr, Radarr, and Sonarr.
 - [TRaSH-Guides](https://trash-guides.info/) - Guides mainly for Sonarr/Radarr/Bazarr and everything related to it.
+- [TutorialSearch](https://tutorialsearch.io/) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 
 ## *arrs with Additional Functionality
 
