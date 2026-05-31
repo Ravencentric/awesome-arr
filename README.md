@@ -109,6 +109,7 @@
 - [Prefetcharr](https://github.com/p-hueber/prefetcharr) - Let Sonarr fetch the next season of a show you are watching on Jellyfin/Emby/Plex.
 - [Proxarr](https://github.com/Fazzani/Proxarr) - Prevents Sonarr/Radarr from downloading media already available for your region on streaming services (e.g., Netflix, Amazon Prime Video)
 - [Prunerr](https://github.com/rpatterson/prunerr) - Perma-seed Servarr media libraries.
+- [Prunerr (helliott20)](https://github.com/helliott20/prunerr) - Media library cleanup tool for Plex/Sonarr/Radarr that reclaims disk space by removing unwanted content based on customisable rules, with a review-and-approve deletion queue, grace periods and a disk-pressure reactive mode.
 - [Pulsarr](https://github.com/jamcalli/Pulsarr) - An integration tool that bridges Plex watchlists with Sonarr and Radarr, enabling real-time media monitoring and automated content acquisition all from within the Plex App itself.
 - [Quasarr](https://github.com/rix1337/Quasarr) - Connects JDownloader with Radarr, Sonarr, Lidarr and LazyLibrarian. It also decrypts links protected by CAPTCHAs.
 - [Radarr-striptracks](https://github.com/linuxserver/docker-mods/tree/radarr-striptracks) - A Docker Mod for the LinuxServer.io Radarr/Sonarr v3 Docker container that adds a script to automatically strip out unwanted audio and subtitle streams, keeping only the desired languages.
