@@ -66,6 +66,7 @@
 - [Cleanarr (hrenard)](https://github.com/hrenard/cleanarr/) - A small utility tasked to automatically clean radarr and sonarr files over time.
 - [Cleanarr (se1exin)](https://github.com/se1exin/Cleanarr) - A simple UI to help find and delete duplicate and sample files from your Plex server.
 - [Cleanuparr](https://github.com/Cleanuparr/Cleanuparr) - An advanced cleaner for dead or malicious torrents.
+- [Cliparr](https://github.com/TechSquidTV/Cliparr) - Create clips from media on your personal media server.
 - [Cloud Seeder](https://github.com/ipv6rslimited/cloudseeder) - 1 click installer and updater for Prowlarr, Lidarr, Radarr, Sonarr and Whisparr. Also links and connects qBittorrent.
 - [Collectarr](https://github.com/RiffSphere/Collectarr) - A Python script for checking your Radarr database and setting up collection lists. Also supports "smart" actor lists based on TMDB.
 - [Crossarr](https://github.com/TMD20/crossarr) - Cross Seed via Arr Programs.
