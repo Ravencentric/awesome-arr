@@ -120,6 +120,7 @@
 - [Sonarr Episode Name Checker](https://github.com/tronyx/sonarr-episode-name-checker) - Bash and Powershell scripts to check for episodes named "Episode ##" or "TBA".
 - [Soularr](https://github.com/mrusse/soularr) - A Python script that connects Lidarr with Soulseek.
 - [StarrScripts](https://github.com/baker-scripts/StarrScripts) - Bash scripts for Starr apps (Radarr, Sonarr, Lidarr, Readarr) — custom formats, naming, and automation.
+- [Subarr](https://github.com/coaxk/subarr) - A coordination layer and dashboard for your subtitle stack. Works alongside Bazarr and subgen to verify subtitle coverage, surface the gaps that are real, and tune Whisper transcription by listening to the audio instead of trusting the metadata.
 - [SuggestArr](https://github.com/giuseppe99barchetta/SuggestArr) - Automatic media content recommendations and download requests based on user activity on the media server.
 - [Taggarr](https://github.com/BassHous3/taggarr) - Dub analysis and tagging for media management and filtering your favourite shows in dub.
 - [Tdarr](https://github.com/HaveAGitGat/Tdarr) - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking.
