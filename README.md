@@ -134,6 +134,7 @@
 - [Botdarr](https://github.com/shayaantx/botdarr) - Slack/Discord/Telegram/Matrix bot for accessing radarr, sonarr, and lidarr.
 - [Doplarr](https://github.com/activexray/doplarr_rs) - An *arr request bot for Discord.
 - [jackett2telegram](https://github.com/danimart1991/jackett2telegram) - A self-hosted Telegram Python Bot that dumps posts from Jackett RSS feeds to a Telegram chat.
+- [jellyseerr-matrix-bot](https://github.com/inventory69/jellyseerr-matrix-bot) - Matrix bot that posts Jellyseerr/Overseerr notifications into an end-to-end encrypted room, with posters, real mentions and push through muted rooms.
 - [Membarr](https://github.com/Yoruio/Membarr) - Discord Bot to invite a user to a Plex or Jellyfin server.
 - [Requestrr](https://github.com/thomst08/requestrr) - A Discord bot used to simplify using services like Sonarr/Radarr/Ombi via the use of chat.
 - [Searcharr](https://github.com/toddrob99/searcharr) - Sonarr & Radarr Telegram Bot.
