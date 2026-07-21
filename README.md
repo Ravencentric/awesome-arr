@@ -153,5 +153,6 @@
 
 ## Mobile Apps
 
+- [Arrcade](https://arrcade.co.uk) - Cross-platform controller for Sonarr, Radarr, Prowlarr, download clients and Seerr, managed from one account on iOS and the web, with Android in beta. Closed source with a free tier.
 - [Ruddarr](https://github.com/ruddarr/app) - A beautifully designed, open source, iOS/iPadOS companion app for Radarr and Sonarr instances written in SwiftUI.
 - [nzb360](https://nzb360.com/) - Usenet/Torrent manager for Android. Supports SABnzbd, NZBget, Deluge, Transmission, uTorrent, qBittorrent, rTorrent/ruTorrent, Sonarr, Sick Beard, Radarr, Lidarr, Bazarr, Couchpotato, Headphones, NEWZnab, Jackett, NZBHydra2 and Prowlarr.
