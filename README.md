@@ -55,7 +55,6 @@
 - [Bazarr](https://github.com/morpheus65535/bazarr) - A companion application to Sonarr and Radarr. It manages and downloads subtitles based on your requirements. You define your preferences by TV show or movie and Bazarr takes care of everything for you.
 - [Buildarr](https://github.com/buildarr/buildarr) - A solution to automating deployment and configuration of your *arr stack.
 - [Byparr](https://github.com/ThePhaseless/Byparr/) - An alternative to FlareSolverr as a drop-in replacement, built with seleniumbase and FastAPI.
-- [Trawl](https://github.com/germondai/trawl) - Another drop-in replacement alternative to FlareSolverr which uses Invisible Playwright to bypass captchas of various types.
 - [Calendarr](https://github.com/jordanlambrecht/calendarr) - A notification system that sends scheduled Sonarr/Radarr calendar updates to Discord and Slack.
 - [Checkrr](https://github.com/aetaric/checkrr) - Scans your library files for corrupt media and replace the files via sonarr and radarr.
 - [Cleanarr (hrenard)](https://github.com/hrenard/cleanarr/) - A small utility tasked to automatically clean radarr and sonarr files over time.
@@ -123,6 +122,7 @@
 - [Trailarr](https://github.com/nandyalu/trailarr) - A Docker application to download and manage trailers for your Radarr, and Sonarr libraries.
 - [Traktarr](https://github.com/l3uddz/traktarr) - Script to add new series & movies to Sonarr/Radarr based on Trakt lists.
 - [Transcoderr](https://github.com/drkno/transcoderr) - A transcoding pipeline designed to normalize file types into a common filetype. Dynamically configurable using plugins allowing highly customizable pipelines to be built.
+- [Trawl](https://github.com/germondai/trawl) - Another drop-in replacement alternative to FlareSolverr which uses Invisible Playwright to bypass captchas of various types.
 - [UmlautAdaptarr](https://github.com/PCJones/UmlautAdaptarr) - A tool to work around Sonarr, Radarr and Lidarr problems with foreign languages (primarily German at the moment).
 - [Unpackerr](https://github.com/Unpackerr/unpackerr) - Extracts downloads for Radarr, Sonarr, Lidarr, Readarr, and/or a Watch folder - Deletes extracted files after import.
 - [Watchlistarr](https://github.com/nylonee/watchlistarr) - Automatically sync Plex Watchlists with Sonarr and Radarr.
