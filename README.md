@@ -55,6 +55,7 @@
 - [Bazarr](https://github.com/morpheus65535/bazarr) - A companion application to Sonarr and Radarr. It manages and downloads subtitles based on your requirements. You define your preferences by TV show or movie and Bazarr takes care of everything for you.
 - [Buildarr](https://github.com/buildarr/buildarr) - A solution to automating deployment and configuration of your *arr stack.
 - [Byparr](https://github.com/ThePhaseless/Byparr/) - An alternative to FlareSolverr as a drop-in replacement, built with seleniumbase and FastAPI.
+- [Trawl](https://github.com/germondai/trawl) - Another drop-in replacement alternative to FlareSolverr which uses Invisible Playwright to bypass captchas of various types.
 - [Calendarr](https://github.com/jordanlambrecht/calendarr) - A notification system that sends scheduled Sonarr/Radarr calendar updates to Discord and Slack.
 - [Checkrr](https://github.com/aetaric/checkrr) - Scans your library files for corrupt media and replace the files via sonarr and radarr.
 - [Cleanarr (hrenard)](https://github.com/hrenard/cleanarr/) - A small utility tasked to automatically clean radarr and sonarr files over time.
