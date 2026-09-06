@@ -29,7 +29,7 @@
 
 ## Resources
 
-- [Build a Homelab](https://peira.dev/blog/arr-stack-explained/) - Plain-English guides to the full *arr stack — Sonarr, Radarr, Prowlarr, Bazarr, Lidarr, and Jellyseerr — built and documented on a live Proxmox cluster.
+- [Peira Labs](https://peira.dev/blog/arr-stack-explained/) - Plain-English guides to the full *arr stack — Sonarr, Radarr, Prowlarr, Bazarr, Lidarr, and Jellyseerr — built and documented on a live Proxmox cluster.
 - [Servarr](https://wiki.servarr.com/) - The consolidated wiki for Lidarr, Prowlarr, Radarr, and Sonarr.
 - [TRaSH-Guides](https://trash-guides.info/) - Guides mainly for Sonarr/Radarr/Bazarr and everything related to it.
 
