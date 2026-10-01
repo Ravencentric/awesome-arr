@@ -40,6 +40,7 @@
 
 - [Flexget](https://github.com/Flexget/Flexget) - A multipurpose automation tool for all of your media. Support for torrents, nzbs, podcasts, comics, TV, movies, RSS, HTML, CSV, and more.
 - [Kapowarr](https://github.com/Casvt/Kapowarr) - A software to build and manage a comic book library.
+- [Lire](https://github.com/Joopinhontas/lire) - A self-hosted request app for manga and comics: finds a series under all its names, plans the smallest set of torrents covering every volume through Prowlarr and qBittorrent, and files it into Kavita.
 - [Medusa](https://pymedusa.com/) - An automatic Video Library Manager for TV Shows. It watches for new episodes of your favorite shows, and when they are posted it does its magic: automatic torrent/nzb searching, downloading, and processing at the qualities you want.
 - [Mylar3](https://github.com/mylar3/mylar3) - The python3 version of the automated Comic Book downloader (cbr/cbz) for use with various download clients.
 - [Questarr](https://github.com/Doezer/Questarr) - Track and organize your video game collection with automated discovery and download management.
