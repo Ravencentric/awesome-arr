@@ -64,6 +64,7 @@
 - [Collectarr](https://github.com/RiffSphere/Collectarr) - A Python script for checking your Radarr database and setting up collection lists. Also supports "smart" actor lists based on TMDB.
 - [Crossarr](https://github.com/TMD20/crossarr) - Cross Seed via Arr Programs.
 - [Dasharr](https://github.com/Arcadia-Solutions/Dasharr) - Dashboard of torrent indexers usage, profile stats evolution over time.
+- [Debarr](https://github.com/RyanMelena/debarr) - Detects the original aspect ratio of your media and sends it over MQTT or a webhook when Kodi starts playing.
 - [Decluttarr](https://github.com/ManiMatter/decluttarr) - Watches radarr, sonarr, lidarr and whisparr download queues and removes downloads if they become stalled or no longer needed.
 - [Deleterr](https://github.com/rfsbraz/deleterr) - Automates deleting inactive and stale media from Plex/Sonarr/Radarr.
 - [Deployrr](https://github.com/SimpleHomelab/Deployrr) - Automates Homelab setup using Docker and Docker Compose.
