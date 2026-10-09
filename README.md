@@ -72,10 +72,10 @@
 - [Excludarr](https://github.com/haijeploeg/excludarr) - A CLI that interacts with Radarr and Sonarr instances. It completely manages you library in Sonarr and Radarr to only consist out of movies and series that are not present on any of the configured streaming providers.
 - [Exportarr](https://github.com/onedr0p/exportarr) - This will export metrics gathered from Sonarr, Radarr, Lidarr, or Prowlarr.
 - [Ezarr](https://github.com/Luctia/ezarr) - Aims to make it as easy as possible to setup an entire Servarr/Jackett/BitTorrent/PleX/Jellyfin mediacenter stack using Docker.
-- [Fetcharr](https://github.com/furey/fetcharr) - Syncs Fetch TV PVR recordings into Plex. Watches a Fetch TV box on the LAN, copies new episodes of followed shows into the Plex TV library, and triggers a section refresh.
 - [Nixarr](https://github.com/nix-media-server/nixarr) - A Nixos module that aims to make the installation and management of a home media server as easy, and pain free, as possible.
 - [FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection.
 - [Flemmarr](https://github.com/Flemmarr/Flemmarr) - Easy, automatic configuration for your -arr apps.
+- [Freetvarr](https://github.com/furey/freetvarr) - Self-hosted companion for TVHeadend. Has a TV guide for scheduling shows and series, files finished recordings into your media library as Show/Season folders, optionally triggers a Plex refresh, and plays live and recorded TV in the browser.
 - [Gclone](https://github.com/l3v11/gclone) - A rclone mod with auto SA rotation.
 - [iPlayarr](https://github.com/Nikorag/iplayarr) - Download-automation for BBC iPlayer — integrates with Sonarr/Radarr as a Newznab API endpoint.
 - [Janitorr](https://github.com/Schaka/janitorr) - Cleans your Radarr, Sonarr, Jellyseerr and Jellyfin before you run out of space.

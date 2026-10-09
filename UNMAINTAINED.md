@@ -6,6 +6,7 @@
 - [Bonarr](https://github.com/bonarr/Bonarr) - Bonarr is an independent fork of Radarr reworked for automatically downloading adult movies via Usenet and BitTorrent.
 - [Cardigann](https://github.com/cardigann/cardigann) - A proxy server for adding new indexers to Sonarr, SickRage and other media managers.
 - [Comandarr](https://github.com/Commandarr/Commandarr) - Comandarr is a bot that will interact with Sonarr, Radarr and Lidarr.
+- [Fetcharr](https://github.com/furey/fetcharr) - Syncs Fetch TV PVR recordings into Plex. Watches a Fetch TV box on the LAN, copies new episodes of followed shows into the Plex TV library, and triggers a section refresh. Archived after Fetch TV announced its Gen 3 Extended Service Levy in September 2026; succeeded by [Freetvarr](https://github.com/furey/freetvarr).
 - [Invitarr](https://github.com/faizyy01/Invitarr) - A chatbot that invites discord users to plex.
 - [Listarr](https://github.com/christophercatt/listarr) - A Trakt.tv list -> Sonarr implementation, emulating the list functionality found within Radarr.
 - [Logarr](https://github.com/Monitorr/logarr) - Logarr is a self-hosted PHP web app that consolidates, formats, and displays log and text files for easy analysis and monitoring.
