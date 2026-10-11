@@ -154,3 +154,4 @@
 
 - [Ruddarr](https://github.com/ruddarr/app) - A beautifully designed, open source, iOS/iPadOS companion app for Radarr and Sonarr instances written in SwiftUI.
 - [nzb360](https://nzb360.com/) - Usenet/Torrent manager for Android. Supports SABnzbd, NZBget, Deluge, Transmission, uTorrent, qBittorrent, rTorrent/ruTorrent, Sonarr, Sick Beard, Radarr, Lidarr, Bazarr, Couchpotato, Headphones, NEWZnab, Jackett, NZBHydra2 and Prowlarr.
+- [ArrMatey](https://github.com/owenlejeune/arrmatey) - An all-in-one solution for Sonarr, Radarr, Lidarr, Chaptarr, Readarr/Bookshelf, Listenarr, Kapowarr, Bazarr, Tracearr, Prowlarr, Seerr, qBittorrent, Transmission, Deluge, and sabNZBD. Build with KMP for iOS and Android with native UI for both platforms and designed to combine data from all your services together.
