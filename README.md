@@ -9,6 +9,7 @@
 - [Resources](#resources)
 - [Beyond \*arr](#beyond-arr)
 - [Complimenting Apps](#complimenting-apps)
+- [IPTV & Live TV](#iptv--live-tv)
 - [Bots](#bots)
 - [Dashboards](#dashboards)
 - [Mobile Apps](#mobile-apps)
@@ -64,6 +65,7 @@
 - [Collectarr](https://github.com/RiffSphere/Collectarr) - A Python script for checking your Radarr database and setting up collection lists. Also supports "smart" actor lists based on TMDB.
 - [Crossarr](https://github.com/TMD20/crossarr) - Cross Seed via Arr Programs.
 - [Dasharr](https://github.com/Arcadia-Solutions/Dasharr) - Dashboard of torrent indexers usage, profile stats evolution over time.
+- [Decypharr](https://github.com/sirrobot01/decypharr) - Media gateway for Debrid & Usenet. Mimics a qBittorrent/SABnzbd download client so Sonarr/Radarr can grab through Real-Debrid, TorBox and other Debrid services.
 - [Decluttarr](https://github.com/ManiMatter/decluttarr) - Watches radarr, sonarr, lidarr and whisparr download queues and removes downloads if they become stalled or no longer needed.
 - [Deleterr](https://github.com/rfsbraz/deleterr) - Automates deleting inactive and stale media from Plex/Sonarr/Radarr.
 - [Deployrr](https://github.com/SimpleHomelab/Deployrr) - Automates Homelab setup using Docker and Docker Compose.
@@ -100,6 +102,7 @@
 - [Posterizarr](https://github.com/fscorrupt/Posterizarr) - Automated poster maker for Plex/Jellyfin/Emby.
 - [Posterr](https://github.com/petersem/posterr) - A digital poster app for Plex, Sonarr and Radarr.
 - [Prefetcharr](https://github.com/p-hueber/prefetcharr) - Let Sonarr fetch the next season of a show you are watching on Jellyfin/Emby/Plex.
+- [Profilarr](https://github.com/Dictionarry-Hub/profilarr) - Configuration management platform for Radarr/Sonarr. Builds, syncs and versions quality profiles and custom formats across instances.
 - [Proxarr](https://github.com/Fazzani/Proxarr) - Prevents Sonarr/Radarr from downloading media already available for your region on streaming services (e.g., Netflix, Amazon Prime Video)
 - [Prunerr](https://github.com/rpatterson/prunerr) - Perma-seed Servarr media libraries.
 - [Pulsarr](https://github.com/jamcalli/Pulsarr) - An integration tool that bridges Plex watchlists with Sonarr and Radarr, enabling real-time media monitoring and automated content acquisition all from within the Plex App itself.
@@ -127,6 +130,29 @@
 - [Watchlistarr](https://github.com/nylonee/watchlistarr) - Automatically sync Plex Watchlists with Sonarr and Radarr.
 - [Wizarr](https://github.com/Wizarrrr/wizarr) - An automatic user invitation system for Plex, Jellyfin, Emby, AudiobookShelf, Komga, Kavita and Romm.
 - [Wrapperr](https://github.com/aunefyren/wrapperr) - Website based application and API that collects Plex statistics using Tautulli and displays it in a nice format. Similar to the Spotify Wrapped concept.
+
+## IPTV & Live TV
+
+> Tools for managing IPTV streams, channels, and EPG data, and serving them to Plex, Jellyfin, Emby, and other players.
+
+- [Dispatcharr](https://github.com/Dispatcharr/Dispatcharr) - Your ultimate IPTV & stream management companion. Manages M3U playlists, EPG, and channels, and exposes them as M3U/XMLTV and HDHomeRun outputs.
+- [Dispatchwrapparr](https://github.com/jordandalley/dispatchwrapparr) - A stream wrapper for Dispatcharr.
+
+### Dispatcharr Plugins
+
+- [Automap Channelarr](https://github.com/Dispatcharr/Plugins/tree/main/plugins/automap-channelarr) - A rule-based channel mapper that complements or replaces Dispatcharr's auto-mapper, pooling streams by normalized name and tvg-id into channels with filtering, stripping, and grouping options.
+- [Channel Mapparr](https://github.com/PiratesIRC/Dispatcharr-Channel-Maparr-Plugin) - Standardizes US broadcast (OTA) and premium/cable channel names using FCC network data and curated channel lists.
+- [Clapparr](https://github.com/v8eta/clapparr) - Generates Kodi/Plex NFO sidecars, posters, and thumbnails for DVR recordings.
+- [Dustarr](https://github.com/PiratesIRC/Dispatcharr-Dustarr-Plugin) - Records which channels are actually watched and reports the ones that are not, so you can turn off the dead weight.
+- [Event Channel Managarr](https://github.com/PiratesIRC/Dispatcharr-Event-Channel-Managarr-Plugin) - Automates channel visibility by hiding channels without events and showing those with events, based on EPG data and channel names.
+- [Lineuparr](https://github.com/PiratesIRC/Dispatcharr-Lineuparr-Plugin) - TV provider channel lineup sync with stream matching, EPG, and logos.
+- [Newsflasharr](https://github.com/PiratesIRC/Dispatcharr-Newsflasharr-Plugin) - Central notification service. Routes events from other plugins to Discord, webhooks, ntfy, Apprise, email, or an on-screen banner over live video.
+- [Pirate Weatharr Station](https://github.com/dexdeadly/pirate-weatharr-station) - A self-hosted, TV-style weather channel that renders Pirate Weather API forecasts and radar as a looping broadcast.
+- [Reservoarr](https://github.com/brko7/reservoarr) - Delay-buffer stream profile that absorbs IPTV CDN gaps so Plex Live TV stops dying.
+- [Segmentarr](https://github.com/Tw1zT3d2four7/Segmentarr) - Cleans up unstable IPTV provider streams by cutting them into HLS segments and repairing timestamp corruption before Dispatcharr sees them.
+- [Stream-Mapparr](https://github.com/PiratesIRC/Stream-Mapparr) - Automates stream-to-channel assignment through fuzzy matching, quality prioritization, and OTA callsign recognition.
+- [Twitcharr](https://github.com/eliasbruno124-dev/Twitcharr) - Turns Twitch channels into ad-free TV channels with logos and a live XMLTV guide. No Twitch login or API key required.
+- [YouTubearr](https://github.com/jeff-gooch/youtubearr) - Monitors YouTube channels for livestreams with yt-dlp, adds them as channels with EPG support, and cleans them up when streams end.
 
 ## Bots
 
