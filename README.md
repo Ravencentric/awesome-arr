@@ -127,6 +127,7 @@
 - [Watchlistarr](https://github.com/nylonee/watchlistarr) - Automatically sync Plex Watchlists with Sonarr and Radarr.
 - [Wizarr](https://github.com/Wizarrrr/wizarr) - An automatic user invitation system for Plex, Jellyfin, Emby, AudiobookShelf, Komga, Kavita and Romm.
 - [Wrapperr](https://github.com/aunefyren/wrapperr) - Website based application and API that collects Plex statistics using Tautulli and displays it in a nice format. Similar to the Spotify Wrapped concept.
+- [YAMS for Umbrel](https://canopystore.app/guide/yams/) - Jellyfin, Sonarr, Radarr, Prowlarr, Bazarr and qBittorrent behind a VPN on umbrelOS in one install, already wired together. A packaging of [YAMS](https://yams.media).
 
 ## Bots
 
